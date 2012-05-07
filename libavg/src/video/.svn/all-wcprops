@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7273/trunk/libavg/src/video
+END
+AVCCOpaque.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6568/trunk/libavg/src/video/AVCCOpaque.cpp
+END
+VideoDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDecoder.cpp
+END
+VideoDemuxerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDemuxerThread.h
+END
+FFMpegDemuxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/video/FFMpegDemuxer.cpp
+END
+AsyncVideoDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6918/trunk/libavg/src/video/AsyncVideoDecoder.h
+END
+FFMpegDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7071/trunk/libavg/src/video/FFMpegDecoder.h
+END
+PacketVideoMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6568/trunk/libavg/src/video/PacketVideoMsg.cpp
+END
+testvideo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7199/trunk/libavg/src/video/testvideo.cpp
+END
+AsyncDemuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/video/AsyncDemuxer.h
+END
+FrameAge.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6568/trunk/libavg/src/video/FrameAge.h
+END
+AudioDecoderThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/video/AudioDecoderThread.cpp
+END
+VideoMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoMsg.h
+END
+VDPAU.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6918/trunk/libavg/src/video/VDPAU.h
+END
+VideoInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7071/trunk/libavg/src/video/VideoInfo.h
+END
+IDemuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6918/trunk/libavg/src/video/IDemuxer.h
+END
+VideoDemuxerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDemuxerThread.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7273/trunk/libavg/src/video/Makefile.am
+END
+VideoDecoderThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDecoderThread.h
+END
+FFMpegDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7071/trunk/libavg/src/video/FFMpegDecoder.cpp
+END
+AsyncVideoDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6918/trunk/libavg/src/video/AsyncVideoDecoder.cpp
+END
+AVCCOpaque.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/video/AVCCOpaque.h
+END
+VideoDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDecoder.h
+END
+WrapFFMpeg.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6996/trunk/libavg/src/video/WrapFFMpeg.h
+END
+FFMpegDemuxer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/video/FFMpegDemuxer.h
+END
+AsyncDemuxer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/video/AsyncDemuxer.cpp
+END
+FrameAge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/video/FrameAge.cpp
+END
+PacketVideoMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6568/trunk/libavg/src/video/PacketVideoMsg.h
+END
+VideoMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoMsg.cpp
+END
+VDPAU.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6800/trunk/libavg/src/video/VDPAU.cpp
+END
+VideoInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7071/trunk/libavg/src/video/VideoInfo.cpp
+END
+VideoDecoderThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/video/VideoDecoderThread.cpp
+END
+AudioDecoderThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/video/AudioDecoderThread.h
+END

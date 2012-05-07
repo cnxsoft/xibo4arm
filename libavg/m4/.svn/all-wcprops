@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/7029/trunk/libavg/m4
+END
+ax_check_define.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5334/trunk/libavg/m4/ax_check_define.m4
+END
+python_dev.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4550/trunk/libavg/m4/python_dev.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1380/trunk/libavg/m4/pkg.m4
+END
+avg_version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7029/trunk/libavg/m4/avg_version.m4
+END
+ac_cxx_namespaces.m4
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1674/trunk/libavg/m4/ac_cxx_namespaces.m4
+END
+ax_boost_thread.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6799/trunk/libavg/m4/ax_boost_thread.m4
+END
+ax_check_gl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2738/trunk/libavg/m4/ax_check_gl.m4
+END
+ac_path_generic.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1380/trunk/libavg/m4/ac_path_generic.m4
+END

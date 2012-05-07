@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/7473/trunk/libavg
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2373/trunk/libavg/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2373/trunk/libavg/compile
+END
+makedocs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/5307/trunk/libavg/makedocs.sh
+END
+CreateVersionFile.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7029/trunk/libavg/CreateVersionFile.py
+END
+BuildMacDeps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7075/trunk/libavg/BuildMacDeps.sh
+END
+fixcopyright.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6569/trunk/libavg/fixcopyright.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2373/trunk/libavg/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7161/trunk/libavg/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/2373/trunk/libavg/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/7347/trunk/libavg/NEWS
+END
+bootstrap
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7072/trunk/libavg/bootstrap
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2373/trunk/libavg/install-sh
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2373/trunk/libavg/mkinstalldirs
+END
+valgrind.cmdline
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4876/trunk/libavg/valgrind.cmdline
+END
+valgrind.suppressions
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6867/trunk/libavg/valgrind.suppressions
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7273/trunk/libavg/configure.in
+END

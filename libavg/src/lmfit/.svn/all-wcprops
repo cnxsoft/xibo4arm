@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/3458/trunk/libavg/src/lmfit
+END
+lm_eval.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2373/trunk/libavg/src/lmfit/lm_eval.c
+END
+lmmin.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2373/trunk/libavg/src/lmfit/lmmin.h
+END
+lm_eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2373/trunk/libavg/src/lmfit/lm_eval.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2373/trunk/libavg/src/lmfit/Makefile.am
+END
+lmmin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3458/trunk/libavg/src/lmfit/lmmin.c
+END

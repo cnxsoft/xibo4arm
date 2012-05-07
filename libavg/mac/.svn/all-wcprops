@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7200/trunk/libavg/mac
+END
+UnpackDeps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7099/trunk/libavg/mac/UnpackDeps.sh
+END
+welcome.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5977/trunk/libavg/mac/welcome.txt
+END
+MakeDist.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7200/trunk/libavg/mac/MakeDist.sh
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4397/trunk/libavg/mac/readme.txt
+END
+glib.patch
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4385/trunk/libavg/mac/glib.patch
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2373/trunk/libavg/mac/gcc-fat.sh
+END
+fontconfig-disablecache.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2463/trunk/libavg/mac/fontconfig-disablecache.patch
+END
+libtool.m4.patch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3960/trunk/libavg/mac/libtool.m4.patch
+END
+boost-lion.patch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7076/trunk/libavg/mac/boost-lion.patch
+END
+libavg.10.4.pmproj
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2425/trunk/libavg/mac/libavg.10.4.pmproj
+END
+freetype_linespacing.patch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7099/trunk/libavg/mac/freetype_linespacing.patch
+END
+avg_env.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/6886/trunk/libavg/mac/avg_env.sh
+END
+stpncpy.patch
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7076/trunk/libavg/mac/stpncpy.patch
+END
+fontconfig.pc.in.patch
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2447/trunk/libavg/mac/fontconfig.pc.in.patch
+END
+ffmpeg.broken-yuv.patch
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4387/trunk/libavg/mac/ffmpeg.broken-yuv.patch
+END
+PackDeps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2490/trunk/libavg/mac/PackDeps.sh
+END

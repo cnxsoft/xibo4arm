@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/shaders
+END
+bandpass.frag
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/bandpass.frag
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7292/trunk/libavg/src/graphics/shaders/Makefile.am
+END
+standard.frag
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/shaders/standard.frag
+END
+rgb2yuv.frag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/rgb2yuv.frag
+END
+horizshadow.frag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/horizshadow.frag
+END
+vertblur.frag
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7215/trunk/libavg/src/graphics/shaders/vertblur.frag
+END
+invert.frag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/invert.frag
+END
+brightness.frag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7229/trunk/libavg/src/graphics/shaders/brightness.frag
+END
+null.frag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7229/trunk/libavg/src/graphics/shaders/null.frag
+END
+helper.frag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/helper.frag
+END
+horizblur.frag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7215/trunk/libavg/src/graphics/shaders/horizblur.frag
+END
+chromakey_erosion.frag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/chromakey_erosion.frag
+END
+chromakey.frag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7136/trunk/libavg/src/graphics/shaders/chromakey.frag
+END
+vertshadow.frag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/vertshadow.frag
+END
+minimal.frag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/shaders/minimal.frag
+END
+huesat.frag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/shaders/huesat.frag
+END

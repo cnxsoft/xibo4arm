@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7313/trunk/libavg/src/wrapper
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7273/trunk/libavg/src/wrapper/Makefile.am
+END
+device_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7089/trunk/libavg/src/wrapper/device_wrap.cpp
+END
+WrapHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7273/trunk/libavg/src/wrapper/WrapHelper.cpp
+END
+raster_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7273/trunk/libavg/src/wrapper/raster_wrap.cpp
+END
+event_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/wrapper/event_wrap.cpp
+END
+anim_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/wrapper/anim_wrap.cpp
+END
+WrapHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7260/trunk/libavg/src/wrapper/WrapHelper.h
+END
+node_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7300/trunk/libavg/src/wrapper/node_wrap.cpp
+END
+raw_constructor.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4687/trunk/libavg/src/wrapper/raw_constructor.hpp
+END
+bitmap_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7026/trunk/libavg/src/wrapper/bitmap_wrap.cpp
+END
+avg_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7313/trunk/libavg/src/wrapper/avg_wrap.cpp
+END
+fx_wrap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7107/trunk/libavg/src/wrapper/fx_wrap.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7293/trunk/libavg/win
+END
+libavg.props
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5930/trunk/libavg/win/libavg.props
+END
+libavg.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7273/trunk/libavg/win/libavg.sln
+END
+genwinimportlibs.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6478/trunk/libavg/win/genwinimportlibs.py
+END

@@ -1,0 +1,33 @@
+K 13
+svn:mergeinfo
+V 1011
+/branches/XInput21:5422-5444
+/branches/fx:4935-4963
+/branches/libavg_avgapp:5982-6139
+/branches/libavg_bitmapmanager:5882-6049
+/branches/libavg_camera:6055-6192
+/branches/libavg_cameras:6277-6899
+/branches/libavg_checkcamera:5900-6053
+/branches/libavg_dscamera:5666-5874
+/branches/libavg_fxnodes:5666-5725
+/branches/libavg_gestures:6025-6126
+/branches/libavg_gestures2:6151-6165
+/branches/libavg_glm:6848-6917
+/branches/libavg_hsl:6334-6338
+/branches/libavg_inputdevice:5757-5855
+/branches/libavg_net:6168-6179
+/branches/libavg_polygon:7191-7272
+/branches/libavg_renderer:6729-6756
+/branches/libavg_rendertarget:6543-6558
+/branches/libavg_shaderlib:6941-6956
+/branches/libavg_shaders:7275-7290
+/branches/libavg_svg:6417-6477
+/branches/libavg_togglebutton:7184-7346
+/branches/libavg_vdpau:5675-6414
+/branches/libavg_video_writer:4878-4881
+/branches/offscreendeps2:4857-4866
+/branches/release1.5.x:5647,5649
+/branches/release1.6.x:6019-6020,6023-6024
+/branches/release1.7.x:6879-6890,6973
+/branches/win7:5381-5407
+END

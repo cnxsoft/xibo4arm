@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7273/trunk/libavg/src/imaging
+END
+Run.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/Run.h
+END
+CameraInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/CameraInfo.h
+END
+qedit.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7035/trunk/libavg/src/imaging/qedit.h
+END
+testimaging.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/testimaging.cpp
+END
+FilterWipeBorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FilterWipeBorder.h
+END
+trackerconfigdtd.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/imaging/trackerconfigdtd.cpp
+END
+Blob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/Blob.cpp
+END
+CMUCameraUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/CMUCameraUtils.cpp
+END
+FakeCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/FakeCamera.cpp
+END
+DSCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6938/trunk/libavg/src/imaging/DSCamera.cpp
+END
+TrackerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7230/trunk/libavg/src/imaging/TrackerThread.cpp
+END
+V4LCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/V4LCamera.h
+END
+FWCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/FWCamera.cpp
+END
+TrackerConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/TrackerConfig.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7273/trunk/libavg/src/imaging/Makefile.am
+END
+CoordTransformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/imaging/CoordTransformer.cpp
+END
+FilterClearBorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6568/trunk/libavg/src/imaging/FilterClearBorder.cpp
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/Camera.h
+END
+CMUCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6938/trunk/libavg/src/imaging/CMUCamera.cpp
+END
+DeDistort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/DeDistort.cpp
+END
+DSSampleGrabber.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7035/trunk/libavg/src/imaging/DSSampleGrabber.h
+END
+CameraInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6900/trunk/libavg/src/imaging/CameraInfo.cpp
+END
+Run.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/Run.cpp
+END
+FilterWipeBorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/imaging/FilterWipeBorder.cpp
+END
+FilterDistortion.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FilterDistortion.h
+END
+FWCameraUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FWCameraUtils.h
+END
+DSHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6900/trunk/libavg/src/imaging/DSHelper.h
+END
+V4LCamera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/V4LCamera.cpp
+END
+TrackerConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7082/trunk/libavg/src/imaging/TrackerConfig.cpp
+END
+avgtrackerrc.minimal
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6222/trunk/libavg/src/imaging/avgtrackerrc.minimal
+END
+trackerconfigdtd.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/imaging/trackerconfigdtd.h
+END
+Blob.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/Blob.h
+END
+CMUCameraUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/CMUCameraUtils.h
+END
+FakeCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/FakeCamera.h
+END
+DSCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6938/trunk/libavg/src/imaging/DSCamera.h
+END
+TrackerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/TrackerThread.h
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/Camera.cpp
+END
+FWCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6937/trunk/libavg/src/imaging/FWCamera.h
+END
+DSSampleGrabber.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7035/trunk/libavg/src/imaging/DSSampleGrabber.cpp
+END
+CoordTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/CoordTransformer.h
+END
+FilterClearBorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FilterClearBorder.h
+END
+test_comp.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2373/trunk/libavg/src/imaging/test_comp.png
+END
+checktracking.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6957/trunk/libavg/src/imaging/checktracking.cpp
+END
+CMUCamera.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6938/trunk/libavg/src/imaging/CMUCamera.h
+END
+IDSSampleCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7035/trunk/libavg/src/imaging/IDSSampleCallback.h
+END
+FilterDistortion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FilterDistortion.cpp
+END
+FWCameraUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/FWCameraUtils.cpp
+END
+DeDistort.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/imaging/DeDistort.h
+END
+DSHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6900/trunk/libavg/src/imaging/DSHelper.cpp
+END

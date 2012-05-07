@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/7416/trunk/libavg/src/python/ui
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7190/trunk/libavg/src/python/ui/simple.py
+END
+button.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7386/trunk/libavg/src/python/ui/button.py
+END
+gesture.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7416/trunk/libavg/src/python/ui/gesture.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7347/trunk/libavg/src/python/ui/__init__.py
+END
+helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7087/trunk/libavg/src/python/ui/helper.py
+END
+keyboard.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7087/trunk/libavg/src/python/ui/keyboard.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7051/trunk/libavg/src/python/ui/Makefile.am
+END

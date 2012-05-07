@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7035/trunk/libavg/src/glm
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7035/trunk/libavg/src/glm/CMakeLists.txt
+END
+glm.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7035/trunk/libavg/src/glm/glm.hpp
+END
+ext.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7035/trunk/libavg/src/glm/ext.hpp
+END

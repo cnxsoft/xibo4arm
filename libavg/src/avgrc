@@ -1,0 +1,15 @@
+<avgrc>
+  <scr>
+    <bpp>24</bpp>
+    <fullscreen>false</fullscreen>
+    <usepow2textures>false</usepow2textures>
+    <usepixelbuffers>true</usepixelbuffers>
+    <multisamplesamples>4</multisamplesamples>
+    <dotspermm>0</dotspermm>
+  </scr>
+  <aud>
+    <channels>2</channels>
+    <samplerate>44100</samplerate>
+    <outputbuffersamples>1024</outputbuffersamples>
+  </aud>
+</avgrc>  

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4695/trunk/libavg/src/graphics/GL
+END
+glx.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3341/trunk/libavg/src/graphics/GL/glx.h
+END
+gl.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3341/trunk/libavg/src/graphics/GL/gl.h
+END
+glext.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4695/trunk/libavg/src/graphics/GL/glext.h
+END
+glu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3341/trunk/libavg/src/graphics/GL/glu.h
+END

@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7256/trunk/libavg/src/graphics/baseline
+END
+ResizeBilinearResultB8G8R8X8.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3452/trunk/libavg/src/graphics/baseline/ResizeBilinearResultB8G8R8X8.png
+END
+BandpassResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/BandpassResult.png
+END
+ThresholdResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5070/trunk/libavg/src/graphics/baseline/ThresholdResult.png
+END
+FastDownscaleResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/FastDownscaleResult.png
+END
+blur_rgb24-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7215/trunk/libavg/src/graphics/baseline/blur_rgb24-64x64.png
+END
+ChromaKeyResult0.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5147/trunk/libavg/src/graphics/baseline/ChromaKeyResult0.png
+END
+ChromaKeyResult1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5148/trunk/libavg/src/graphics/baseline/ChromaKeyResult1.png
+END
+DilationResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3429/trunk/libavg/src/graphics/baseline/DilationResult.png
+END
+Gauss1Result.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2812/trunk/libavg/src/graphics/baseline/Gauss1Result.png
+END
+ResizeBilinearResultB8G8R8A8.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3452/trunk/libavg/src/graphics/baseline/ResizeBilinearResultB8G8R8A8.png
+END
+ChromaKeyResult2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5148/trunk/libavg/src/graphics/baseline/ChromaKeyResult2.png
+END
+Gauss3Result.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2812/trunk/libavg/src/graphics/baseline/Gauss3Result.png
+END
+blur05_spike.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5726/trunk/libavg/src/graphics/baseline/blur05_spike.png
+END
+Gauss5Result.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2812/trunk/libavg/src/graphics/baseline/Gauss5Result.png
+END
+HslHueResult0.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslHueResult0.png
+END
+HslHueResult1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslHueResult1.png
+END
+HslHueResult2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslHueResult2.png
+END
+ErosionResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3432/trunk/libavg/src/graphics/baseline/ErosionResult.png
+END
+GetAlphaResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3450/trunk/libavg/src/graphics/baseline/GetAlphaResult.png
+END
+LineResultI8.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/LineResultI8.png
+END
+LineResultB8G8R8.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4530/trunk/libavg/src/graphics/baseline/LineResultB8G8R8.png
+END
+MaskResultI8.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/MaskResultI8.png
+END
+MaskResultB8G8R8.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4530/trunk/libavg/src/graphics/baseline/MaskResultB8G8R8.png
+END
+ChromaKeyMedianResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7136/trunk/libavg/src/graphics/baseline/ChromaKeyMedianResult.png
+END
+invert_rgb24-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7256/trunk/libavg/src/graphics/baseline/invert_rgb24-64x64.png
+END
+BlurResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/BlurResult.png
+END
+blur_rgb24alpha-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5728/trunk/libavg/src/graphics/baseline/blur_rgb24alpha-64x64.png
+END
+HighpassResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2812/trunk/libavg/src/graphics/baseline/HighpassResult.png
+END
+ChromaKeySpillResult1.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5179/trunk/libavg/src/graphics/baseline/ChromaKeySpillResult1.png
+END
+ChromaKeySpillResult2.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5179/trunk/libavg/src/graphics/baseline/ChromaKeySpillResult2.png
+END
+ChromaKeySpillResult3.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5179/trunk/libavg/src/graphics/baseline/ChromaKeySpillResult3.png
+END
+FastBandpassResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/FastBandpassResult.png
+END
+FloodfillResult.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3428/trunk/libavg/src/graphics/baseline/FloodfillResult.png
+END
+HslColorizeResult0.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslColorizeResult0.png
+END
+MaskResultB8G8R8X8.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4530/trunk/libavg/src/graphics/baseline/MaskResultB8G8R8X8.png
+END
+HslColorizeResult1.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslColorizeResult1.png
+END
+HslColorizeResult2.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6339/trunk/libavg/src/graphics/baseline/HslColorizeResult2.png
+END
+blur05_flat.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7215/trunk/libavg/src/graphics/baseline/blur05_flat.png
+END
+YUV2RGBResult1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4265/trunk/libavg/src/graphics/baseline/YUV2RGBResult1.png
+END
+blur1_spike.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5726/trunk/libavg/src/graphics/baseline/blur1_spike.png
+END
+copyPixels_B8G8R8X8_I8.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4897/trunk/libavg/src/graphics/baseline/copyPixels_B8G8R8X8_I8.png
+END
+copyPixels_R8G8B8X8_I8.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4897/trunk/libavg/src/graphics/baseline/copyPixels_R8G8B8X8_I8.png
+END
+LineResultB8G8R8A8.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4530/trunk/libavg/src/graphics/baseline/LineResultB8G8R8A8.png
+END
+blur3_spike.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5726/trunk/libavg/src/graphics/baseline/blur3_spike.png
+END
+bandpass_i8-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2818/trunk/libavg/src/graphics/baseline/bandpass_i8-64x64.png
+END
+bandpass_spike.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2811/trunk/libavg/src/graphics/baseline/bandpass_spike.png
+END
+Gauss15Result.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2794/trunk/libavg/src/graphics/baseline/Gauss15Result.png
+END

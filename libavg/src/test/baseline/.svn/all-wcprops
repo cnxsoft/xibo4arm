@@ -1,0 +1,2537 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline
+END
+testTexturedCurve1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5259/trunk/libavg/src/test/baseline/testTexturedCurve1.png
+END
+testWordsMask1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask1.png
+END
+testContAnim4.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6379/trunk/libavg/src/test/baseline/testContAnim4.png
+END
+testFXUpdateMaskTex2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateMaskTex2.png
+END
+testWordsMask5.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask5.png
+END
+testWrapMode1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3860/trunk/libavg/src/test/baseline/testWrapMode1.png
+END
+testSvgScaledNode1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6478/trunk/libavg/src/test/baseline/testSvgScaledNode1.png
+END
+testLinearAnimC1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimC1.png
+END
+testTexturedRect1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4315/trunk/libavg/src/test/baseline/testTexturedRect1.png
+END
+testButtonDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4609/trunk/libavg/src/test/baseline/testButtonDown.png
+END
+testParallelAnims1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testParallelAnims1.png
+END
+testFocusContext2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testFocusContext2.png
+END
+testShadowFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5726/trunk/libavg/src/test/baseline/testShadowFX3.png
+END
+testLinearAnimC5.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimC5.png
+END
+testTexturedRect5.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3981/trunk/libavg/src/test/baseline/testTexturedRect5.png
+END
+testSimpleWords.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testSimpleWords.png
+END
+testVideoMaskYUV3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskYUV3.png
+END
+testImgMask1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMask1.png
+END
+testStateAnimC1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testStateAnimC1.png
+END
+testHueSatFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6508/trunk/libavg/src/test/baseline/testHueSatFX2.png
+END
+testHugeImage0.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testHugeImage0.png
+END
+testVideoOpacityRGBA1.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3830/trunk/libavg/src/test/baseline/testVideoOpacityRGBA1.png
+END
+testUIToggleChecked_Down.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleChecked_Down.png
+END
+testStateAnimC5.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testStateAnimC5.png
+END
+testPolyLine4.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3397/trunk/libavg/src/test/baseline/testPolyLine4.png
+END
+testUIToggleUnchecked_Down.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleUnchecked_Down.png
+END
+testI18NWords2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testI18NWords2.png
+END
+testRotate1b.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3689/trunk/libavg/src/test/baseline/testRotate1b.png
+END
+testNodeInCanvasNullFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/6482/trunk/libavg/src/test/baseline/testNodeInCanvasNullFX1.png
+END
+testWordsGamma1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7148/trunk/libavg/src/test/baseline/testWordsGamma1.png
+END
+testBlurFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5726/trunk/libavg/src/test/baseline/testBlurFX1.png
+END
+testDynamicWords1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testDynamicWords1.png
+END
+testCircle4.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3626/trunk/libavg/src/test/baseline/testCircle4.png
+END
+testInvertFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6522/trunk/libavg/src/test/baseline/testInvertFX1.png
+END
+testEaseInOutAnimC3.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testEaseInOutAnimC3.png
+END
+testWarp1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testWarp1.png
+END
+testOffscreen2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4725/trunk/libavg/src/test/baseline/testOffscreen2.png
+END
+testVideo-rgba-48x48.mov1.png
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-rgba-48x48.mov1.png
+END
+testCheckboxClickedDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxClickedDown.png
+END
+testSvgBmp.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6639/trunk/libavg/src/test/baseline/testSvgBmp.png
+END
+testColorFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX3.png
+END
+testtexturedline4.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3644/trunk/libavg/src/test/baseline/testtexturedline4.png
+END
+testLinearAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testLinearAnim2.png
+END
+testVideoMaskRGBA4.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskRGBA4.png
+END
+testImgHRef1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4325/trunk/libavg/src/test/baseline/testImgHRef1.png
+END
+testColorFX7.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4977/trunk/libavg/src/test/baseline/testColorFX7.png
+END
+testRotatePivot3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6385/trunk/libavg/src/test/baseline/testRotatePivot3.png
+END
+testDynamicMediaDir1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3507/trunk/libavg/src/test/baseline/testDynamicMediaDir1.png
+END
+testCurve3.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5258/trunk/libavg/src/test/baseline/testCurve3.png
+END
+testCropImage10.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage10.png
+END
+testPolygon1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3403/trunk/libavg/src/test/baseline/testPolygon1.png
+END
+testLinearAnimZeroDuration3.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3534/trunk/libavg/src/test/baseline/testLinearAnimZeroDuration3.png
+END
+testWordsDynamics3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3647/trunk/libavg/src/test/baseline/testWordsDynamics3.png
+END
+testImgMaskPos.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMaskPos.png
+END
+testPolygon5.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3403/trunk/libavg/src/test/baseline/testPolygon5.png
+END
+testContrast1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5054/trunk/libavg/src/test/baseline/testContrast1.png
+END
+testUIKeyboardDownA111S1.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4802/trunk/libavg/src/test/baseline/testUIKeyboardDownA111S1.png
+END
+testVideoFPS.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testVideoFPS.png
+END
+testPolygon9.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7273/trunk/libavg/src/test/baseline/testPolygon9.png
+END
+testSpanWords.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testSpanWords.png
+END
+testVideoMaskYUVJ4.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskYUVJ4.png
+END
+testImgDynamics1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testImgDynamics1.png
+END
+testArc1.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5325/trunk/libavg/src/test/baseline/testArc1.png
+END
+testCropMovie3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie3.png
+END
+testImgDynamics5.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testImgDynamics5.png
+END
+testVideoState2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoState2.png
+END
+testDraggable1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testDraggable1.png
+END
+testCropImage4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage4.png
+END
+testCropMovie7.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testCropMovie7.png
+END
+testUIToggleChecked_Up.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleChecked_Up.png
+END
+testDivDynamics1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testDivDynamics1.png
+END
+testTexturedPolygon1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3604/trunk/libavg/src/test/baseline/testTexturedPolygon1.png
+END
+testCropImage8.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage8.png
+END
+testTextArea2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testTextArea2.png
+END
+testDivDynamics5.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testDivDynamics5.png
+END
+testRoundedRect2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5298/trunk/libavg/src/test/baseline/testRoundedRect2.png
+END
+testVideoSeek2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoSeek2.png
+END
+testTexturedPolygon5.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3752/trunk/libavg/src/test/baseline/testTexturedPolygon5.png
+END
+testChromaKeyFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7136/trunk/libavg/src/test/baseline/testChromaKeyFX1.png
+END
+testUIButtonDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4638/trunk/libavg/src/test/baseline/testUIButtonDown.png
+END
+testTexturedPolyLine3.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testTexturedPolyLine3.png
+END
+testRoundedRect6.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6692/trunk/libavg/src/test/baseline/testRoundedRect6.png
+END
+testCropMovie10.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie10.png
+END
+testFadeIn1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeIn1.png
+END
+testline1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3222/trunk/libavg/src/test/baseline/testline1.png
+END
+testLinearAnimZeroDurationC1.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimZeroDurationC1.png
+END
+testIntensity4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5064/trunk/libavg/src/test/baseline/testIntensity4.png
+END
+testAVGFile.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6384/trunk/libavg/src/test/baseline/testAVGFile.png
+END
+testRect2.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3227/trunk/libavg/src/test/baseline/testRect2.png
+END
+testMesh3.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4278/trunk/libavg/src/test/baseline/testMesh3.png
+END
+testplugin1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3341/trunk/libavg/src/test/baseline/testplugin1.png
+END
+testScrollPane3.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6615/trunk/libavg/src/test/baseline/testScrollPane3.png
+END
+testParallelAnimC2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testParallelAnimC2.png
+END
+testComplexDiv1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3169/trunk/libavg/src/test/baseline/testComplexDiv1.png
+END
+testContinuousAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4148/trunk/libavg/src/test/baseline/testContinuousAnim2.png
+END
+testCanvasCrop.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasCrop.png
+END
+testGamma2.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5052/trunk/libavg/src/test/baseline/testGamma2.png
+END
+testStateAnim4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testStateAnim4.png
+END
+testUIToggleChecked_Disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleChecked_Disabled.png
+END
+testPieSlice1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5325/trunk/libavg/src/test/baseline/testPieSlice1.png
+END
+testFXUpdateFX.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateFX.png
+END
+testRotate1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testRotate1.png
+END
+testVideoDynamics2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testVideoDynamics2.png
+END
+testImgPos2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4326/trunk/libavg/src/test/baseline/testImgPos2.png
+END
+testRawText3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testRawText3.png
+END
+testPolygonHole2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7323/trunk/libavg/src/test/baseline/testPolygonHole2.png
+END
+testUIKeyboardDownA212S2.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/4802/trunk/libavg/src/test/baseline/testUIKeyboardDownA212S2.png
+END
+testEaseInOutAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testEaseInOutAnim1.png
+END
+testSplineAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testSplineAnim3.png
+END
+testImgWarp1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4330/trunk/libavg/src/test/baseline/testImgWarp1.png
+END
+testMove1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testMove1.png
+END
+testSvgScaleBmp1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6639/trunk/libavg/src/test/baseline/testSvgScaleBmp1.png
+END
+testContAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6379/trunk/libavg/src/test/baseline/testContAnim1.png
+END
+testTexturedCurve2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5259/trunk/libavg/src/test/baseline/testTexturedCurve2.png
+END
+testWordsMask2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask2.png
+END
+testWordsMask6.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask6.png
+END
+testWrapMode2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3860/trunk/libavg/src/test/baseline/testWrapMode2.png
+END
+testSvgScaledNode2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6639/trunk/libavg/src/test/baseline/testSvgScaledNode2.png
+END
+testTexturedRect2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4315/trunk/libavg/src/test/baseline/testTexturedRect2.png
+END
+testLinearAnimC2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimC2.png
+END
+testParallelAnims2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testParallelAnims2.png
+END
+testInactiveVector1.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4598/trunk/libavg/src/test/baseline/testInactiveVector1.png
+END
+testShadowFX4.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5732/trunk/libavg/src/test/baseline/testShadowFX4.png
+END
+testFocusContext3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testFocusContext3.png
+END
+testTexturedRect6.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3981/trunk/libavg/src/test/baseline/testTexturedRect6.png
+END
+testLinearAnimC6.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4028/trunk/libavg/src/test/baseline/testLinearAnimC6.png
+END
+testImgMask2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMask2.png
+END
+testHueSatFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6508/trunk/libavg/src/test/baseline/testHueSatFX3.png
+END
+testVideoMaskYUV4.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskYUV4.png
+END
+testStateAnimC2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testStateAnimC2.png
+END
+testHugeImage1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testHugeImage1.png
+END
+testPolyLine1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3363/trunk/libavg/src/test/baseline/testPolyLine1.png
+END
+testVideo-mpeg1-48x48.mpg1.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-mpeg1-48x48.mpg1.png
+END
+testVideoOpacityRGBA2.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3830/trunk/libavg/src/test/baseline/testVideoOpacityRGBA2.png
+END
+testPolyLine5.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3411/trunk/libavg/src/test/baseline/testPolyLine5.png
+END
+testI18NWords3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testI18NWords3.png
+END
+testCircle1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3595/trunk/libavg/src/test/baseline/testCircle1.png
+END
+testWordsGamma2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7148/trunk/libavg/src/test/baseline/testWordsGamma2.png
+END
+testBlurFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5749/trunk/libavg/src/test/baseline/testBlurFX2.png
+END
+testCanvasNullFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4972/trunk/libavg/src/test/baseline/testCanvasNullFX1.png
+END
+testDynamicWords2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testDynamicWords2.png
+END
+testCircle5.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3623/trunk/libavg/src/test/baseline/testCircle5.png
+END
+testInvertFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6545/trunk/libavg/src/test/baseline/testInvertFX2.png
+END
+testEaseInOutAnimC4.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testEaseInOutAnimC4.png
+END
+testImgSize1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4326/trunk/libavg/src/test/baseline/testImgSize1.png
+END
+testWarp2.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testWarp2.png
+END
+testOffscreen3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4758/trunk/libavg/src/test/baseline/testOffscreen3.png
+END
+testtexturedline1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testtexturedline1.png
+END
+testCanvasResize.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasResize.png
+END
+testVideoMaskRGBA1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3900/trunk/libavg/src/test/baseline/testVideoMaskRGBA1.png
+END
+testColorFX4.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX4.png
+END
+testPanoImage.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testPanoImage.png
+END
+testUIButtonDisabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4702/trunk/libavg/src/test/baseline/testUIButtonDisabled.png
+END
+testlotsoflines.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3217/trunk/libavg/src/test/baseline/testlotsoflines.png
+END
+testtexturedline5.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3831/trunk/libavg/src/test/baseline/testtexturedline5.png
+END
+testLinearAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testLinearAnim3.png
+END
+testPlayBeforeConnect.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4621/trunk/libavg/src/test/baseline/testPlayBeforeConnect.png
+END
+testImgHRef2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4325/trunk/libavg/src/test/baseline/testImgHRef2.png
+END
+testImgMaskSize1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMaskSize1.png
+END
+testDynamicMediaDir2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3507/trunk/libavg/src/test/baseline/testDynamicMediaDir2.png
+END
+testPanoDynamics1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testPanoDynamics1.png
+END
+testFXUpdateVideo.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateVideo.png
+END
+testCurve4.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5258/trunk/libavg/src/test/baseline/testCurve4.png
+END
+testPolygon2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3404/trunk/libavg/src/test/baseline/testPolygon2.png
+END
+testWordsDynamics4.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testWordsDynamics4.png
+END
+testPolygon6.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3403/trunk/libavg/src/test/baseline/testPolygon6.png
+END
+testContrast2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5054/trunk/libavg/src/test/baseline/testContrast2.png
+END
+testButtonUp.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4609/trunk/libavg/src/test/baseline/testButtonUp.png
+END
+testVideoMaskYUVJ1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5045/trunk/libavg/src/test/baseline/testVideoMaskYUVJ1.png
+END
+testLetterSpacing1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3952/trunk/libavg/src/test/baseline/testLetterSpacing1.png
+END
+testImgDynamics2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testImgDynamics2.png
+END
+testCropImage1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testCropImage1.png
+END
+testCropMovie4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie4.png
+END
+testVideo-h264-48x48.h2641.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-h264-48x48.h2641.png
+END
+testArc2.png
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5325/trunk/libavg/src/test/baseline/testArc2.png
+END
+testVideoState3.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoState3.png
+END
+testDraggable2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testDraggable2.png
+END
+testCropImage5.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage5.png
+END
+testCropMovie8.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie8.png
+END
+testImageNullFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6501/trunk/libavg/src/test/baseline/testImageNullFX1.png
+END
+testDivDynamics2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testDivDynamics2.png
+END
+testBitmap1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4349/trunk/libavg/src/test/baseline/testBitmap1.png
+END
+testTexturedPolygon2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3601/trunk/libavg/src/test/baseline/testTexturedPolygon2.png
+END
+testCropImage9.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage9.png
+END
+testVideoSeek3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoSeek3.png
+END
+testRoundedRect3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5298/trunk/libavg/src/test/baseline/testRoundedRect3.png
+END
+testTexturedPolygon6.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3752/trunk/libavg/src/test/baseline/testTexturedPolygon6.png
+END
+testChromaKeyFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7136/trunk/libavg/src/test/baseline/testChromaKeyFX2.png
+END
+testTexturedPolyLine4.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6918/trunk/libavg/src/test/baseline/testTexturedPolyLine4.png
+END
+testAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testAnim1.png
+END
+testIntensity1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5064/trunk/libavg/src/test/baseline/testIntensity1.png
+END
+testFadeIn2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeIn2.png
+END
+testline2.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3222/trunk/libavg/src/test/baseline/testline2.png
+END
+testLinearAnimZeroDurationC2.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimZeroDurationC2.png
+END
+testplugin2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3341/trunk/libavg/src/test/baseline/testplugin2.png
+END
+testRect3.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3228/trunk/libavg/src/test/baseline/testRect3.png
+END
+testMesh4.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4278/trunk/libavg/src/test/baseline/testMesh4.png
+END
+testWordsShadowFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5756/trunk/libavg/src/test/baseline/testWordsShadowFX1.png
+END
+testVideoOpacityYUV1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3830/trunk/libavg/src/test/baseline/testVideoOpacityYUV1.png
+END
+testScrollPane4.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6615/trunk/libavg/src/test/baseline/testScrollPane4.png
+END
+testParallelAnimC3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testParallelAnimC3.png
+END
+testVideoHRef1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3956/trunk/libavg/src/test/baseline/testVideoHRef1.png
+END
+testVideoNullFX.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4971/trunk/libavg/src/test/baseline/testVideoNullFX.png
+END
+testVideo-mpeg1-48x48-sound.avi1.png
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-mpeg1-48x48-sound.avi1.png
+END
+testOutlines.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3693/trunk/libavg/src/test/baseline/testOutlines.png
+END
+testBlend1.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4351/trunk/libavg/src/test/baseline/testBlend1.png
+END
+testStateAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testStateAnim1.png
+END
+testFadeOut1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeOut1.png
+END
+testStateAnim5.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testStateAnim5.png
+END
+testPieSlice2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5325/trunk/libavg/src/test/baseline/testPieSlice2.png
+END
+testPointAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testPointAnim1.png
+END
+testRotate2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2515/trunk/libavg/src/test/baseline/testRotate2.png
+END
+testVideoDynamics3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testVideoDynamics3.png
+END
+testRawText4.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testRawText4.png
+END
+testVideoActive1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3956/trunk/libavg/src/test/baseline/testVideoActive1.png
+END
+testEaseInOutAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testEaseInOutAnim2.png
+END
+testOffscreenAutoRender1.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5022/trunk/libavg/src/test/baseline/testOffscreenAutoRender1.png
+END
+testSvgScaleBmp2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6639/trunk/libavg/src/test/baseline/testSvgScaleBmp2.png
+END
+testContAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6379/trunk/libavg/src/test/baseline/testContAnim2.png
+END
+testCheckboxClickedOut.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxClickedOut.png
+END
+testWordsMask3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask3.png
+END
+testWrapMode3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3860/trunk/libavg/src/test/baseline/testWrapMode3.png
+END
+testWordsMask7.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7116/trunk/libavg/src/test/baseline/testWordsMask7.png
+END
+testCanvasDependencies1.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasDependencies1.png
+END
+testShadowFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5727/trunk/libavg/src/test/baseline/testShadowFX1.png
+END
+testLinearAnimC3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimC3.png
+END
+testTexturedRect3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4315/trunk/libavg/src/test/baseline/testTexturedRect3.png
+END
+testInactiveVector2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4597/trunk/libavg/src/test/baseline/testInactiveVector2.png
+END
+testVideoMaskYUV1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3900/trunk/libavg/src/test/baseline/testVideoMaskYUV1.png
+END
+testShadowFX5.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5732/trunk/libavg/src/test/baseline/testShadowFX5.png
+END
+testFocusContext4.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testFocusContext4.png
+END
+testTexturedRect7.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3981/trunk/libavg/src/test/baseline/testTexturedRect7.png
+END
+testImgMask3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMask3.png
+END
+testHueSatFX4.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6508/trunk/libavg/src/test/baseline/testHueSatFX4.png
+END
+testStateAnimC3.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testStateAnimC3.png
+END
+testPolyLine2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3397/trunk/libavg/src/test/baseline/testPolyLine2.png
+END
+testIntAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testIntAnim1.png
+END
+testVideoWriterCanvas1.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6803/trunk/libavg/src/test/baseline/testVideoWriterCanvas1.png
+END
+testPolyLine6.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3610/trunk/libavg/src/test/baseline/testPolyLine6.png
+END
+testCircle2.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3596/trunk/libavg/src/test/baseline/testCircle2.png
+END
+testMipmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4353/trunk/libavg/src/test/baseline/testMipmap.png
+END
+testBlurFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5726/trunk/libavg/src/test/baseline/testBlurFX3.png
+END
+testEaseInOutAnimC1.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testEaseInOutAnimC1.png
+END
+testCanvasNullFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4972/trunk/libavg/src/test/baseline/testCanvasNullFX2.png
+END
+testDynamicWords3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2592/trunk/libavg/src/test/baseline/testDynamicWords3.png
+END
+testWordsNullFX.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6486/trunk/libavg/src/test/baseline/testWordsNullFX.png
+END
+testImgSize2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4326/trunk/libavg/src/test/baseline/testImgSize2.png
+END
+testEaseInOutAnimC5.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testEaseInOutAnimC5.png
+END
+testUIKeyboardDownS1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4802/trunk/libavg/src/test/baseline/testUIKeyboardDownS1.png
+END
+testWarp3.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testWarp3.png
+END
+testColorFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX1.png
+END
+testOffscreen4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4725/trunk/libavg/src/test/baseline/testOffscreen4.png
+END
+testtexturedline2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testtexturedline2.png
+END
+testMediaDir1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3507/trunk/libavg/src/test/baseline/testMediaDir1.png
+END
+testVideoLoop.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoLoop.png
+END
+testVideoMaskRGBA2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskRGBA2.png
+END
+testRotatePivot1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6380/trunk/libavg/src/test/baseline/testRotatePivot1.png
+END
+testColorFX5.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX5.png
+END
+testPositioning.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3969/trunk/libavg/src/test/baseline/testPositioning.png
+END
+testVideo-mjpeg-48x48.avi1.png
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-mjpeg-48x48.avi1.png
+END
+testImgHRef3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4331/trunk/libavg/src/test/baseline/testImgHRef3.png
+END
+testbasics.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4324/trunk/libavg/src/test/baseline/testbasics.png
+END
+testImgMaskSize2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMaskSize2.png
+END
+testFontDir.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3872/trunk/libavg/src/test/baseline/testFontDir.png
+END
+testCurve1.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3237/trunk/libavg/src/test/baseline/testCurve1.png
+END
+testVideo-vp6a-yuva-48x48.flv1.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideo-vp6a-yuva-48x48.flv1.png
+END
+testLinearAnimZeroDuration1.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testLinearAnimZeroDuration1.png
+END
+testPanoDynamics2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testPanoDynamics2.png
+END
+testWordsDynamics1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3647/trunk/libavg/src/test/baseline/testWordsDynamics1.png
+END
+testPolygon3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3403/trunk/libavg/src/test/baseline/testPolygon3.png
+END
+testWordsDynamics5.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3647/trunk/libavg/src/test/baseline/testWordsDynamics5.png
+END
+testPolygon7.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7273/trunk/libavg/src/test/baseline/testPolygon7.png
+END
+testCanvasMipmap.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasMipmap.png
+END
+testContrast3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5059/trunk/libavg/src/test/baseline/testContrast3.png
+END
+testWordsBR.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testWordsBR.png
+END
+testVideoMaskYUVJ2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskYUVJ2.png
+END
+testCropMovie1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie1.png
+END
+testLetterSpacing2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3952/trunk/libavg/src/test/baseline/testLetterSpacing2.png
+END
+testImgDynamics3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testImgDynamics3.png
+END
+testCropImage2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testCropImage2.png
+END
+testCropMovie5.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie5.png
+END
+testVideoState4.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/3955/trunk/libavg/src/test/baseline/testVideoState4.png
+END
+testCropImage6.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage6.png
+END
+testCropMovie9.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie9.png
+END
+testImageNullFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6501/trunk/libavg/src/test/baseline/testImageNullFX2.png
+END
+testDivDynamics3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testDivDynamics3.png
+END
+testVideoSeek0.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoSeek0.png
+END
+testTexturedPolygon3.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3601/trunk/libavg/src/test/baseline/testTexturedPolygon3.png
+END
+testTexturedPolyLine1.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testTexturedPolyLine1.png
+END
+testlineopacity1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3221/trunk/libavg/src/test/baseline/testlineopacity1.png
+END
+testRoundedRect4.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5298/trunk/libavg/src/test/baseline/testRoundedRect4.png
+END
+testChromaKeyFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7136/trunk/libavg/src/test/baseline/testChromaKeyFX3.png
+END
+testTexCompression1.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5350/trunk/libavg/src/test/baseline/testTexCompression1.png
+END
+testAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testAnim2.png
+END
+testIntensity2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5064/trunk/libavg/src/test/baseline/testIntensity2.png
+END
+testFadeIn3.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeIn3.png
+END
+testline3.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3223/trunk/libavg/src/test/baseline/testline3.png
+END
+testLinearAnimZeroDurationC3.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimZeroDurationC3.png
+END
+testMesh1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4278/trunk/libavg/src/test/baseline/testMesh1.png
+END
+testRect4.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3396/trunk/libavg/src/test/baseline/testRect4.png
+END
+testMesh5.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4313/trunk/libavg/src/test/baseline/testMesh5.png
+END
+testScrollPane1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6615/trunk/libavg/src/test/baseline/testScrollPane1.png
+END
+testWordsShadowFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5756/trunk/libavg/src/test/baseline/testWordsShadowFX2.png
+END
+testVideoOpacityYUV2.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3830/trunk/libavg/src/test/baseline/testVideoOpacityYUV2.png
+END
+testButtonDisabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2960/trunk/libavg/src/test/baseline/testButtonDisabled.png
+END
+testBlend2.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4351/trunk/libavg/src/test/baseline/testBlend2.png
+END
+testStateAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testStateAnim2.png
+END
+testFadeOut2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeOut2.png
+END
+testUIButtonUp.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4638/trunk/libavg/src/test/baseline/testUIButtonUp.png
+END
+testRawText1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testRawText1.png
+END
+testPointAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testPointAnim2.png
+END
+testSplineAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testSplineAnim1.png
+END
+testPieSlice3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5326/trunk/libavg/src/test/baseline/testPieSlice3.png
+END
+testHinting1.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4117/trunk/libavg/src/test/baseline/testHinting1.png
+END
+testVideoDynamics4.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testVideoDynamics4.png
+END
+testCheckboxOver.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxOver.png
+END
+testEaseInOutAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testEaseInOutAnim3.png
+END
+testVideoActive2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoActive2.png
+END
+testVideoWriter1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6811/trunk/libavg/src/test/baseline/testVideoWriter1.png
+END
+testOffscreenAutoRender2.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5022/trunk/libavg/src/test/baseline/testOffscreenAutoRender2.png
+END
+test2VideosAtOnce1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6415/trunk/libavg/src/test/baseline/test2VideosAtOnce1.png
+END
+testCanvasMultisample.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasMultisample.png
+END
+testContAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6379/trunk/libavg/src/test/baseline/testContAnim3.png
+END
+testUIToggleUnchecked_Up.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleUnchecked_Up.png
+END
+testJustify.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testJustify.png
+END
+testWordsMask4.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testWordsMask4.png
+END
+testFXUpdateMaskTex1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateMaskTex1.png
+END
+testWrapMode4.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3860/trunk/libavg/src/test/baseline/testWrapMode4.png
+END
+testCanvasDependencies2.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasDependencies2.png
+END
+testPanoImagewNOP.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3558/trunk/libavg/src/test/baseline/testPanoImagewNOP.png
+END
+testFocusContext1.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testFocusContext1.png
+END
+testShadowFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5749/trunk/libavg/src/test/baseline/testShadowFX2.png
+END
+testLinearAnimC4.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testLinearAnimC4.png
+END
+testTexturedRect4.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3981/trunk/libavg/src/test/baseline/testTexturedRect4.png
+END
+testVideoMaskYUV2.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3987/trunk/libavg/src/test/baseline/testVideoMaskYUV2.png
+END
+testHueSatFX1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6508/trunk/libavg/src/test/baseline/testHueSatFX1.png
+END
+testCanvasBlendModes.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasBlendModes.png
+END
+testFocusContext5.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testFocusContext5.png
+END
+testShadowFX6.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5726/trunk/libavg/src/test/baseline/testShadowFX6.png
+END
+testTexturedRect8.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4315/trunk/libavg/src/test/baseline/testTexturedRect8.png
+END
+testStateAnimC4.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testStateAnimC4.png
+END
+testPolyLine3.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3397/trunk/libavg/src/test/baseline/testPolyLine3.png
+END
+testFXUpdateMaskPos.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateMaskPos.png
+END
+testI18NWords1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testI18NWords1.png
+END
+testRotate1a.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3689/trunk/libavg/src/test/baseline/testRotate1a.png
+END
+testIntAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testIntAnim2.png
+END
+testCircle3.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3596/trunk/libavg/src/test/baseline/testCircle3.png
+END
+testEaseInOutAnimC2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testEaseInOutAnimC2.png
+END
+testCanvasNullFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7156/trunk/libavg/src/test/baseline/testCanvasNullFX3.png
+END
+testDynamicWords4.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3631/trunk/libavg/src/test/baseline/testDynamicWords4.png
+END
+testEaseInOutAnimC6.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4084/trunk/libavg/src/test/baseline/testEaseInOutAnimC6.png
+END
+testOffscreen1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testOffscreen1.png
+END
+testColorFX2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX2.png
+END
+testOffscreen5.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4867/trunk/libavg/src/test/baseline/testOffscreen5.png
+END
+testtexturedline3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testtexturedline3.png
+END
+testLinearAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testLinearAnim1.png
+END
+testMediaDir2.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3507/trunk/libavg/src/test/baseline/testMediaDir2.png
+END
+testVideoMaskRGBA3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskRGBA3.png
+END
+testRotatePivot2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6380/trunk/libavg/src/test/baseline/testRotatePivot2.png
+END
+testParaWords.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3990/trunk/libavg/src/test/baseline/testParaWords.png
+END
+testColorFX6.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4975/trunk/libavg/src/test/baseline/testColorFX6.png
+END
+testEvents.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testEvents.png
+END
+testRenderPipeline.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6702/trunk/libavg/src/test/baseline/testRenderPipeline.png
+END
+testSvgNode.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6478/trunk/libavg/src/test/baseline/testSvgNode.png
+END
+testImgMaskSize3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4352/trunk/libavg/src/test/baseline/testImgMaskSize3.png
+END
+testCurve2.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5258/trunk/libavg/src/test/baseline/testCurve2.png
+END
+testLinearAnimZeroDuration2.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3534/trunk/libavg/src/test/baseline/testLinearAnimZeroDuration2.png
+END
+testButtonOver.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testButtonOver.png
+END
+testOffscreenScreenshot.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5337/trunk/libavg/src/test/baseline/testOffscreenScreenshot.png
+END
+testWordsDynamics2.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3647/trunk/libavg/src/test/baseline/testWordsDynamics2.png
+END
+testPanoDynamics3.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testPanoDynamics3.png
+END
+testPolygon4.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3403/trunk/libavg/src/test/baseline/testPolygon4.png
+END
+testPolygon8.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7273/trunk/libavg/src/test/baseline/testPolygon8.png
+END
+testSvgPosBmp.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6639/trunk/libavg/src/test/baseline/testSvgPosBmp.png
+END
+testVideoMaskYUVJ3.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3903/trunk/libavg/src/test/baseline/testVideoMaskYUVJ3.png
+END
+testOffscreenMultisampleScreenshot.png
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5337/trunk/libavg/src/test/baseline/testOffscreenMultisampleScreenshot.png
+END
+testCropMovie2.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropMovie2.png
+END
+testVideoState1.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoState1.png
+END
+testImgDynamics4.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testImgDynamics4.png
+END
+testCropImage3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage3.png
+END
+testCropMovie6.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/3160/trunk/libavg/src/test/baseline/testCropMovie6.png
+END
+testCheckboxUp.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxUp.png
+END
+testVideoState5.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoState5.png
+END
+testCropImage7.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testCropImage7.png
+END
+testImageNullFX3.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6501/trunk/libavg/src/test/baseline/testImageNullFX3.png
+END
+testDivDynamics4.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testDivDynamics4.png
+END
+testUIKeyboard.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4802/trunk/libavg/src/test/baseline/testUIKeyboard.png
+END
+testTextArea1.png
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3876/trunk/libavg/src/test/baseline/testTextArea1.png
+END
+testRoundedRect1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5298/trunk/libavg/src/test/baseline/testRoundedRect1.png
+END
+testVideoSeek1.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6620/trunk/libavg/src/test/baseline/testVideoSeek1.png
+END
+testTexturedPolygon4.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/3612/trunk/libavg/src/test/baseline/testTexturedPolygon4.png
+END
+testCheckboxClickedOver.png
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxClickedOver.png
+END
+testFXUpdateTex.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6757/trunk/libavg/src/test/baseline/testFXUpdateTex.png
+END
+testlineopacity2.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/3221/trunk/libavg/src/test/baseline/testlineopacity2.png
+END
+testTexturedPolyLine2.png
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3588/trunk/libavg/src/test/baseline/testTexturedPolyLine2.png
+END
+testRoundedRect5.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5298/trunk/libavg/src/test/baseline/testRoundedRect5.png
+END
+testChromaKeyFX4.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7136/trunk/libavg/src/test/baseline/testChromaKeyFX4.png
+END
+testTexCompression2.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5350/trunk/libavg/src/test/baseline/testTexCompression2.png
+END
+testAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2491/trunk/libavg/src/test/baseline/testAnim3.png
+END
+testUIKeyboardDownA1.png
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4802/trunk/libavg/src/test/baseline/testUIKeyboardDownA1.png
+END
+testIntensity3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5064/trunk/libavg/src/test/baseline/testIntensity3.png
+END
+testline4.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3614/trunk/libavg/src/test/baseline/testline4.png
+END
+testCheckboxDown.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2936/trunk/libavg/src/test/baseline/testCheckboxDown.png
+END
+testRect1.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3226/trunk/libavg/src/test/baseline/testRect1.png
+END
+testMesh2.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4278/trunk/libavg/src/test/baseline/testMesh2.png
+END
+testMesh6.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4313/trunk/libavg/src/test/baseline/testMesh6.png
+END
+testScrollPane2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6615/trunk/libavg/src/test/baseline/testScrollPane2.png
+END
+testImgMaskCanvas.png
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6387/trunk/libavg/src/test/baseline/testImgMaskCanvas.png
+END
+testParallelAnimC1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testParallelAnimC1.png
+END
+testContinuousAnim1.png
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4148/trunk/libavg/src/test/baseline/testContinuousAnim1.png
+END
+testGamma1.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5052/trunk/libavg/src/test/baseline/testGamma1.png
+END
+testStateAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testStateAnim3.png
+END
+testFadeOut3.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4037/trunk/libavg/src/test/baseline/testFadeOut3.png
+END
+testImgPos1.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4326/trunk/libavg/src/test/baseline/testImgPos1.png
+END
+testVideoDynamics1.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testVideoDynamics1.png
+END
+testPolygonHole1.png
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7323/trunk/libavg/src/test/baseline/testPolygonHole1.png
+END
+testRawText2.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6548/trunk/libavg/src/test/baseline/testRawText2.png
+END
+testUIToggleUnchecked_Disabled.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7347/trunk/libavg/src/test/baseline/testUIToggleUnchecked_Disabled.png
+END
+testCanvasAlpha.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5633/trunk/libavg/src/test/baseline/testCanvasAlpha.png
+END
+testSplineAnim2.png
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/4556/trunk/libavg/src/test/baseline/testSplineAnim2.png
+END
+testPointAnim3.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4026/trunk/libavg/src/test/baseline/testPointAnim3.png
+END
+testVideoDynamics5.png
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3165/trunk/libavg/src/test/baseline/testVideoDynamics5.png
+END

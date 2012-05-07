@@ -1,0 +1,44 @@
+K 9
+eol-style
+V 6
+native
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 23
+Author Date Id Revision
+K 13
+svn:mergeinfo
+V 1111
+/branches/XInput21/NEWS:5422-5444
+/branches/fx/NEWS:4935-4963
+/branches/libavg_avgapp/NEWS:5982-6139
+/branches/libavg_bitmapmanager/NEWS:5882-6049
+/branches/libavg_camera/NEWS:6055-6192
+/branches/libavg_cameras/NEWS:6277-6899
+/branches/libavg_checkcamera/NEWS:5900-6053
+/branches/libavg_dscamera/NEWS:5666-5874
+/branches/libavg_fxnodes/NEWS:5666-5725
+/branches/libavg_gestures/NEWS:6025-6126
+/branches/libavg_gestures2/NEWS:6151-6165
+/branches/libavg_glm/NEWS:6848-6917
+/branches/libavg_hsl/NEWS:6334-6338
+/branches/libavg_inputdevice/NEWS:5757-5855
+/branches/libavg_net/NEWS:6168-6179
+/branches/libavg_renderer/NEWS:6729-6756
+/branches/libavg_rendertarget/NEWS:6543-6558
+/branches/libavg_shaderlib/NEWS:6941-6956
+/branches/libavg_shaders/NEWS:7275-7290
+/branches/libavg_svg/NEWS:6417-6477
+/branches/libavg_togglebutton/NEWS:7184-7346
+/branches/libavg_vdpau/NEWS:5675-6414
+/branches/libavg_video_writer/NEWS:4878-4881
+/branches/offscreendeps2/NEWS:4857-4866
+/branches/release1.5.x/NEWS:5647,5649
+/branches/release1.6.x/NEWS:6019-6020,6023-6024
+/branches/release1.7.x/NEWS:6879-7029
+/branches/win7/NEWS:5381-5407
+END

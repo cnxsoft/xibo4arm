@@ -1,0 +1,184 @@
+10
+
+dir
+7474
+https://www.libavg.de/svn/trunk/libavg/win
+https://www.libavg.de/svn
+
+
+
+2012-04-09T21:52:44.077955Z
+7293
+coder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+44470bb9-56e9-0310-a0f8-c586564d3dc6
+
+base
+dir
+
+testbase
+dir
+
+testimaging
+dir
+
+lmfit
+dir
+
+imaging
+dir
+
+wrapper
+dir
+
+oscpack
+dir
+
+genwinimportlibs.py
+file
+
+
+
+
+2012-05-05T06:03:10.246141Z
+104818ce8a96e9c92531c0f37e75302c
+2011-08-22T14:33:09.871676Z
+6478
+coder
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+919
+
+anim
+dir
+
+testgpu
+dir
+
+player
+dir
+
+testplayer
+dir
+
+testplugin
+dir
+
+libavg.sln
+file
+
+
+
+
+2012-05-05T06:03:10.262140Z
+9a35c3c29760844dc9a4f809d3195a6c
+2012-04-05T15:50:21.345178Z
+7273
+coder
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13060
+
+testgraphics
+dir
+
+graphics
+dir
+
+audio
+dir
+
+testlimiter
+dir
+
+testvideo
+dir
+
+video
+dir
+
+libavg.props
+file
+
+
+
+
+2012-05-05T06:03:10.278140Z
+5247fec27827390db1960e3f91cd4e96
+2011-05-12T13:47:50.355466Z
+5930
+oxullo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1936
+

@@ -1,0 +1,394 @@
+libavg 1.7.1 - Jan 26, 2012
+
+  svn revision 7008, branch release1.7.x
+
+  Bugfixes:
+  
+  - Mac avg_env.sh handling of PKG_CONFIG_PATH fixed (r6886).
+  - Fixed handling of files > 2 gb in VideoWriter (r6905, Bug #279).
+  - Fixed VideoWriter crash with some ffmpeg versions (r6922).
+  - Fixed crash when stopping and seeking one video simultaneously (r6961).
+  - Fixed slow tests on Linux machines with ATI display drivers (r6970).
+  - Fixed TUIO support under Linux x86-64 (r6982).
+
+libavg 1.7.0 - Oct 29, 2011
+
+  svn revision 6888, branch release1.7.x
+
+  Bugfixes
+
+libavg 1.7.0.pre1 - Oct 29, 2011
+
+  svn revision 6871
+
+  Major New Features:
+    * Expanded effects support: New HueSatFXNode and InvertFXNode by Richard Klemm, major
+      speed improvements.
+    * Polished multitouch gesture support.
+    * New Contact class that delivers per-touch data, per-touch callbacks that make
+      event handling a lot easier.
+    * SVG support.
+    * New BitmapManager that allows loading of bitmaps in a background thread (OXullo
+      Intersecans).
+
+  Other Changes:
+    * Lots of performance optimizations.
+    * Linux ATI graphics are supported now.
+    * Major speed improvements to VideoWriter. Saving full HD videos is not a problem
+      anymore and costs little performance for the main rendering thread.
+    * Callbacks don't hold references to python objects anymore - this should make
+      freeing nodes a lot easier.
+    * New StateMachine class.
+    * Added Player.getPixelsPerMM(), getPhysicalScreenDimensions(), assumePixelsPerMM()
+    * Added touch feedback class.
+
+libavg 1.6.0 - May 29, 2011
+
+  svn revision 6022, branch release1.6.x
+
+  Bugfix release
+
+libavg 1.6.0.pre2 - May 27, 2011
+
+  svn revision 6018, branch release1.6.x
+
+  Bugfix release
+
+libavg 1.6.0.pre1 - May 20, 2011
+
+  svn revision 5974
+
+  Major New Features:
+    * New Sphinx-based reference.
+    * Unified multitouch interface: internal tracker can now be activated using 
+      enableMultitouch(), Windows 7 touch is supported, linux multitouch using
+      XInput 2.1 and LibMTDev. Drivers are autodetected if possible.
+    * (Finally!) Added clean windows build files for VS 2010 to the open source 
+      distribution.
+
+  Other Changes:
+    * (Finally!) Found an invisible workaround for the Linux/Mesa graphics segfault
+      that's been plaguing us for years (Chase Douglas).
+    * Support for input devices defined in python (Henrik Thoms).
+    * Added VideoWriter class (initial version by Henrik Thoms).
+    * Added initial manipulation classes for multitouch gesture support.
+    * Added connect/disconnectEventHandler functions to replace setEventHandler()
+    * Added Player.getFrameDuration().
+    * Added geom.Arc and geom.PieSlice node classes.
+    * Added Player.isUsingShaders().
+    * Added Player.getScreenResolution().
+    * 16 bit texture support is more robust.
+    * Frame times are now monotonic, so libavg installations survive time zone changes.
+    * libavg can be built with binutils-gold under linux.
+    * Intelligent fallback for multisampling.
+    * FXNodes can now change the size of the node - necessary e.g. for blur and shadow.
+    * Added Player.getTimeSinceLastFrame().
+    * Added avg_checkvsync.py utility.
+
+libavg 1.5.3 - February 20, 2011 (Linux only)
+
+  svn revision 5599
+
+  Major new feature:
+    * Linux XInput 2.1 Multitouch support.
+
+libavg 1.5.1 - November 14, 2010 (Mac only)
+
+  svn revision 5275
+
+  Fixed bug that caused fullscreen apps to crash on the mac (Bug # 162).
+
+libavg 1.5.0 - November 6, 2010
+
+  svn revision 5270
+
+  Major New Features:
+    * Nodes can be constructed directly from python, making createNode unnecessary.
+    * Added support for rendering avg scenes to offscreen canvases.
+    * Added GPU-based effects framework and Blur, Shadow, Chromakey effects.
+    * Added multitouch driver model and support for Apple Magic Trackpads and TUIO 
+      devices.
+    * Support for flash videos with an alpha channel. Decoding is GPU-accellerated.
+
+  Other Changes:
+    * Added color controls (gamma, brightness, contrast) to all RasterNodes.
+    * Node constructors have a parent parameter which makes a following addChild 
+      redundant.
+    * Added Player.setEventHook().
+    * Added onscreen keyboard for touchscreens.
+    * WordsNode.getNumLines(), .getCharIndexFromPos(), .getTextAsDisplayed().
+    * DivNode.getEffectiveMediaDir().
+    * Clearer profiling that works for multiple threads.
+    * Added AVG_BREAK_ON_IMPORT and AVG_BREAK_ON_ASSERT env variables.
+    * Added AVG_DUMP_TEST_FRAMES env variable.
+    * Added Player.setWindowFrame().
+    * Added VideoNode.queuelength.
+    * Video stability & timing improvements.
+    * DivNode crop default is now false.
+    * Node class names are unified: All names end with 'Node': WordsNode, DivNode, etc.
+    * Added ImageNode.compression for 16 bpp texture support.
+    * Added avg_audioplayer.py.
+
+    * Various compiler compatibility fixes: Compiles with gcc 4.5 and VC++ 2010 now.
+    * Lots of bugfixes - see the bug tracker.
+
+libavg 1.5.0.pre3 - November 4, 2010
+
+  svn revision 5267
+
+libavg 1.5.0.pre2 - November 3, 2010
+
+  svn revision 5263
+
+libavg 1.5.0.pre1 - October 31, 2010
+
+  svn revision 5244 
+
+libavg 1.0.0 - January 8, 2010
+
+  svn revision 4489
+
+  New Features:
+
+    * hinting is now optional in words node.
+    * Multitouch emulation module added to AVGMTApp.
+    * masks now work with words nodes.
+    * Added video.volume property and video.hasAudio() method.
+    * Added AVG_LOG_CATEGORIES environment variable. Log configuration is now
+      done using the environment and not by calling a method.
+    * Added maskpos and masksize attribute so masks can be moved and rescaled.
+    * Added Player.getKeyModifierState()
+    * Added sse2 version of yuv->rgb color conversion.
+    * Added avg_videoinfo.sh.
+    * Added mesh node.
+    * Added avg_showcamera --resetbus to reset the firewire bus after crashes.
+
+  Other Improvements:
+    * New anim framework is now stable.
+    * Snow Leopard compatibility.
+    * avg_showcamera has much better command line handling.
+    * The test suite is faster and a lot more comprehensive.
+    * hrefs and mediadirs are now unicode-aware, so filenames like "ö.png" 
+      should work.
+    * node.unlink(True) now deletes all event handlers in the node, making
+      it a lot easier to avoid memory leaks. 
+    * Lots of bug fixes:
+      - Windows gamma is now reset correctly on program end.
+      - Linux vsync now much more stable.
+      - Setting node.pos.x now throws an error instead of being ignored. 
+        Same for all other Point2D attributes.
+      - video.getNumFrames() now returns the exact number of frames.
+      - Behaviour of nodes before Player.play() and when they are not in the
+        avg tree is now much more stable.
+      - Fixed words node sensitive area for centered and right-aligned nodes.
+
+libavg 1.0.0.pre3 - January 6, 2010
+
+  svn revision 4475
+
+libavg 1.0.0.pre2 - December 23, 2009
+
+  svn revision 4398
+
+libavg 1.0.0.pre1 - December 21, 2009
+
+  svn revision 4387
+
+libavg 0.9.0 - August 23, 2009
+
+  svn revision 4100
+
+  Major new features:
+
+    * Support for vector node types: Line, PolyLine, Curve, Circle, Polygon,
+      Rectangle. Vector nodes can be textured, with the closed vectors taking two
+      textures: one for the outline, one for the fill. Vector drawing is GPU-based.
+    * Plugin support. Plugins written in C++ can define complete new node types.
+    * Powerful (but still experimental) new animation framework.
+    * Unified & much more stable camera drivers. Consistent support for all 
+      resolutions & framerates we could test. Support for more than one camera on all
+      platforms. fw800 is supported.
+    * Uniform support for aggregate types in node interfaces (node.pos, node.pivot, 
+      ...)
+
+  Other improvements:
+    * gcc 4.4 and ffmpeg 0.5.0 compatibility.
+    * Added letterspacing support to words node.
+    * Threaded videos are now the default.
+    * Improved video seek and loop performance.
+    * New Node::getElementByPos() method that returns the node at that point on the
+      screen.
+    * Added avg.svnrevision and avg.svndate properties so the avg version can be 
+      queried.
+    * New avg_showfont.py utility to help font selection.
+    * New avg_showcamera.py utility to help camera setup.
+    * New avg.getMemoryUsage function that returns the resident set size.
+    * New Words.addFontDir().
+    * Added support for mipmapping node textures, including videos.
+    * rasternode.maskhref to support static alpha masks for any videos, word nodes,
+      etc.
+
+  Syntax and semantic changes:
+    * In the course of adding aggregate types for node attributes, several attributes
+      have changed:
+      - words.size is now called words.fontsize.
+      - pivotx and pivoty have been replaced by pivot.
+    * right-aligned and centered words nodes are positioned differently.
+    * avgtrackerrc syntax has changed significantly; see src/avgtrackerrc.minimal.
+    * Support for firewire cameras using libdc1394 ver. 1 has been phased out. Please 
+      install ver. 2.x.
+    * The old python-based anim framework is marked deprecated. You need to explicitly
+      use the namespace anim to access it.
+
+libavg 0.9.0.pre3 - August 20, 2009
+
+  svn rev. 4086
+
+libavg 0.9.0.pre2 - August 11, 2009
+
+  svn revision 4066
+
+libavg 0.9.0.pre1 - August 9, 2009
+
+  svn revision 4046
+
+libavg 0.8.0 - September 22, 2008
+
+  svn revision 3196
+
+libavg 0.8.0.pre3 - September 16, 2008
+
+  svn revision 3171
+
+  * Fixed testgpu bug on older graphics cards.
+  * Fixed gcc 4.3 compile.
+  * Error instead of crash if vertex buffers are not supported.
+
+libavg 0.8.0.pre2 - September 13, 2008
+
+  svn revision 3161
+
+  Major new Features:
+  
+    * Major tracking improvements: Parts now run as shaders on the GPU, 
+      lots of optimizations, speed and ellipse axes of blobs are now available
+      in python, blob contours can be calculated, etc.
+    * Major rendering performance improvements.
+    * Much improved words node - variant attribute to select font variant to use,
+      _much_ faster rendering, full unicode support, getGlyphPos() and 
+      getGlyphSize() methods, avg_showfont.py utility (parts by oxullol02l.org).
+    * Support for stereo sound mixing (Mostly Nick Hebner - hebern@gmail.com).
+    * Support for audio playback for videos (Mostly Nick Hebner - hebern@gmail.com).
+  
+  Other improvements:
+    * General Mac OS X 10.5 stability.
+    * Added mediadir attribute for div nodes to specify where media used in child
+      nodes should be loaded from.
+    * Switched from ImageMagick to GraphicsMagick.
+    * Nodes can now be constructed in python using a dict for the attributes (Nick
+      Hebner - hebern@gmail.com).
+    * Mouse Wheel support.
+    * Added Player::setWindowPos()
+    * Added Node::unlink() to remove a node from the tree.
+    * The anim module now allows only one animation per node attribute.
+    * avg_videoplayer.py utility.
+    * Support for application-specific fonts.
+    * Added Player::getGPUMemoryUsage() (oxullo@02l.net).
+    * Experimental button, checkbox and textarea gui classes.
+    * Added Player::loadString() to load avg tree from a string.
+    * Added DivNode::reorderChild(), ::insertChildBefore() and ::removeChild(pNode).
+    * Experimental TUIO protocol support in remote.py.
+    * Support for bayer pattern decoding (oxullo@02l.net).
+    * Added Node::getAbsPos().
+    * Added Node::getMediaSize().
+    * Unicode handling for keyboard events.
+    * New Point2D class exposed to python.
+    * Added anim.abortAnim(node, attrName).
+
+
+libavg 0.8.0.pre1 - September 9, 2008
+
+  svn revision 3118
+
+
+libavg 0.7.1.pre1 - November 25, 2007
+
+  svn revision 2439
+
+  Major new features:
+
+    * Rotating div nodes is now possible curtesy of Nick Hebner (hebnern@gmail.com)
+    * Works with Mac OS X 10.5 (Leopard)
+
+  Other improvements:
+  
+    * Improved font rendering on Mac (pango-1.18.2, freetype-2.3.5)
+    * If AVG_CONSOLE_TEST is defined during make check, all tests that involve
+      opening windows are skipped.
+    * Fixed a memory corruption bug involving timeouts.
+    * Added draggable class.
+    * Added continuousAnimation class by Martin Heistermann
+    * Added DivNode::reorderChild()
+    * Fixes for new MacBook Pros with NVidia 8600 cards.
+    
+
+libavg 0.7.0 - August 31, 2007
+
+  svn Revision 2309
+
+  Major new features:
+    
+    * Support for camera tracking and multitouch surfaces. (Lots of code by
+      igor@c-base.org.)
+    * Multi-threaded video decoding and video playback at speeds other than the 
+      player redraw speed.
+    * API cleanups (not really a major feature, but a heads up that things will 
+      break :-)).
+    * Much improved documentation.
+
+  Other improvements:
+  
+    * Improved dynamic node API (DivNode::insertChild()).
+    * Video4Linux support curtesy of Xullo (x@02l.net).
+    * Update to new ffmpeg version.
+    * Callback support on video end of file.
+    * Support for python threads.
+    * Improved warp interface.
+    * Event callbacks now pass the event as a parameter.
+    * Added Player::setOnFrameHandler().
+    * Added Node::getRelPos().
+    * Any pythoon callable can be used as event handler now using 
+      Node::setEventHandler().
+    * Added Anim.abort() and .isDone().
+    * Lots of new automatic low-level tests.
+    * libavg now uses correct python package semantics. Use 
+      'from libavg import avg' to import it now. It shouldn't be necessary to 
+      use PYTHONPATH anymore (igor@c-base.org).
+    * Much faster Image::setBitmap().
+
+libavg 0.6.0 - October 7, 2006 
+
+  svn Revision 1664
+
+  Major new features:
+
+    * Added support for dynamically adding and removing nodes to/from the tree.
+    * libavg now runs under windows, curtesy of Thomas Schüppel. 
+
+  Other improvements:
+
+    * Compatible with Mesa 6.5.1 OpenGL.
+    * Much improved Gentoo ebuild.
+    * Added event capture capability (setEventCapture/releaseEventCapture) to nodes.
+    * Major speed improvement for motion jpeg videos.
+    * Some panorama image improvements.
+    * Text rendering speed improvements, minor text rendering quality improvements.
+    * Fixed mac fontconfig configuration directory issue.
+    * Fixed camera bug that caused an endless loop after 16 open/close cycles.
+    * Better error checking for broken videos and missing video files.
+    * More minor bugfixes.
+
+libavg 0.5.9 - August 11, 2006
+
+    * Test suite now completely automatic and a lot faster.
+

@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7406/trunk/libavg/src/samples
+END
+showvideo.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6140/trunk/libavg/src/samples/showvideo.py
+END
+asyncload.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6069/trunk/libavg/src/samples/asyncload.py
+END
+subclass.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7022/trunk/libavg/src/samples/subclass.py
+END
+timer.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6962/trunk/libavg/src/samples/timer.py
+END
+rotcustompivot.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6962/trunk/libavg/src/samples/rotcustompivot.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5335/trunk/libavg/src/samples/Makefile.am
+END
+attributes.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6962/trunk/libavg/src/samples/attributes.py
+END
+localcoordsrot.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6962/trunk/libavg/src/samples/localcoordsrot.py
+END
+videochooser.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7233/trunk/libavg/src/samples/videochooser.py
+END
+plugin.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6962/trunk/libavg/src/samples/plugin.py
+END
+gestures.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7406/trunk/libavg/src/samples/gestures.py
+END
+event1.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7233/trunk/libavg/src/samples/event1.py
+END
+timer3.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6962/trunk/libavg/src/samples/timer3.py
+END
+rgb24-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4593/trunk/libavg/src/samples/rgb24-64x64.png
+END
+anim2.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6962/trunk/libavg/src/samples/anim2.py
+END
+globalcoords.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6962/trunk/libavg/src/samples/globalcoords.py
+END
+button.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7349/trunk/libavg/src/samples/button.py
+END
+canvas.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6962/trunk/libavg/src/samples/canvas.py
+END
+drag.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7233/trunk/libavg/src/samples/drag.py
+END
+wordspos.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6962/trunk/libavg/src/samples/wordspos.py
+END
+sampleapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7087/trunk/libavg/src/samples/sampleapp.py
+END
+twovideos.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7089/trunk/libavg/src/samples/twovideos.py
+END
+mpeg1-48x48-sound.avi
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4620/trunk/libavg/src/samples/mpeg1-48x48-sound.avi
+END
+minimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6962/trunk/libavg/src/samples/minimal.py
+END
+abort_gestures.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7087/trunk/libavg/src/samples/abort_gestures.py
+END
+gpuhuefx.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/samples/gpuhuefx.py
+END
+rotdefaultpivot.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6962/trunk/libavg/src/samples/rotdefaultpivot.py
+END
+mesh.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5262/trunk/libavg/src/samples/mesh.py
+END
+timer2.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6963/trunk/libavg/src/samples/timer2.py
+END
+event2.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7233/trunk/libavg/src/samples/event2.py
+END
+localcoords.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6962/trunk/libavg/src/samples/localcoords.py
+END
+invertfx.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7087/trunk/libavg/src/samples/invertfx.py
+END
+anim1.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6962/trunk/libavg/src/samples/anim1.py
+END
+video.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6962/trunk/libavg/src/samples/video.py
+END

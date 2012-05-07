@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7211/trunk/libavg/src/test/plugin
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6831/trunk/libavg/src/test/plugin/Makefile.am
+END
+ColorNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7211/trunk/libavg/src/test/plugin/ColorNode.cpp
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/3341/trunk/libavg/src/test/plugin/test.sh
+END

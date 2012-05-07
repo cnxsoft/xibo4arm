@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7473/trunk/libavg/src/test
+END
+AVTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7473/trunk/libavg/src/test/AVTest.py
+END
+DynamicsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7473/trunk/libavg/src/test/DynamicsTest.py
+END
+image.avg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7175/trunk/libavg/src/test/image.avg
+END
+illustratorRect.svg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6478/trunk/libavg/src/test/illustratorRect.svg
+END
+OffscreenTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7473/trunk/libavg/src/test/OffscreenTest.py
+END
+testcase.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7473/trunk/libavg/src/test/testcase.py
+END
+FXTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7473/trunk/libavg/src/test/FXTest.py
+END
+UITest.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7473/trunk/libavg/src/test/UITest.py
+END
+AVGAppTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6872/trunk/libavg/src/test/AVGAppTest.py
+END
+GestureTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7473/trunk/libavg/src/test/GestureTest.py
+END
+Test.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7412/trunk/libavg/src/test/Test.py
+END
+InputDeviceTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7473/trunk/libavg/src/test/InputDeviceTest.py
+END
+testapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7291/trunk/libavg/src/test/testapp.py
+END
+PythonTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7473/trunk/libavg/src/test/PythonTest.py
+END
+EventTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7473/trunk/libavg/src/test/EventTest.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7175/trunk/libavg/src/test/Makefile.am
+END
+ImageTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7473/trunk/libavg/src/test/ImageTest.py
+END
+AnimTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7473/trunk/libavg/src/test/AnimTest.py
+END
+checkcamera.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6704/trunk/libavg/src/test/checkcamera.py
+END
+PlayerTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7473/trunk/libavg/src/test/PlayerTest.py
+END
+PluginTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7473/trunk/libavg/src/test/PluginTest.py
+END
+WordsTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7473/trunk/libavg/src/test/WordsTest.py
+END
+VectorTest.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7473/trunk/libavg/src/test/VectorTest.py
+END
+camcfgs.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6569/trunk/libavg/src/test/camcfgs.py
+END

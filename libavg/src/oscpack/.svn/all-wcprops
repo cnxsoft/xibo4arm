@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6982/trunk/libavg/src/oscpack
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/README
+END
+OscOutboundPacketStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6982/trunk/libavg/src/oscpack/OscOutboundPacketStream.h
+END
+NetworkingUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/NetworkingUtils.h
+END
+OscTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6982/trunk/libavg/src/oscpack/OscTypes.h
+END
+IpEndpointName.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/IpEndpointName.h
+END
+PacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/PacketListener.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/TODO
+END
+OscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscPacketListener.h
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/CHANGES
+END
+OscReceivedElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscReceivedElements.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5236/trunk/libavg/src/oscpack/Makefile.am
+END
+TimerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/TimerListener.h
+END
+OscReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscReceivedElements.h
+END
+OscHostEndianness.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscHostEndianness.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/LICENSE
+END
+UdpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5250/trunk/libavg/src/oscpack/UdpSocket.cpp
+END
+OscPrintReceivedElements.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscPrintReceivedElements.cpp
+END
+UdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/UdpSocket.h
+END
+OscOutboundPacketStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscOutboundPacketStream.cpp
+END
+OscException.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscException.h
+END
+NetworkingUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/NetworkingUtils.cpp
+END
+MessageMappingOscPacketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/MessageMappingOscPacketListener.h
+END
+OscTypes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscTypes.cpp
+END
+OscPrintReceivedElements.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/OscPrintReceivedElements.h
+END
+IpEndpointName.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5246/trunk/libavg/src/oscpack/IpEndpointName.cpp
+END

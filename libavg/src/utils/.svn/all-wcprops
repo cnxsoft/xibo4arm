@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7299/trunk/libavg/src/utils
+END
+avg_checktouch.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/utils/avg_checktouch.py
+END
+avg_checkvsync.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/utils/avg_checkvsync.py
+END
+avg_showfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7162/trunk/libavg/src/utils/avg_showfile.py
+END
+avg_showsvg.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6637/trunk/libavg/src/utils/avg_showsvg.py
+END
+avg_splineedit.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7087/trunk/libavg/src/utils/avg_splineedit.py
+END
+avg_chromakey.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7162/trunk/libavg/src/utils/avg_chromakey.py
+END
+avg_videoinfo.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7232/trunk/libavg/src/utils/avg_videoinfo.py
+END
+avg_videoplayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6830/trunk/libavg/src/utils/avg_videoplayer.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7273/trunk/libavg/src/utils/Makefile.am
+END
+avg_checkpolygonspeed.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7299/trunk/libavg/src/utils/avg_checkpolygonspeed.py
+END
+avg_showfont.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7087/trunk/libavg/src/utils/avg_showfont.py
+END
+avg_showcamera.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7162/trunk/libavg/src/utils/avg_showcamera.py
+END
+avg_audioplayer.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7162/trunk/libavg/src/utils/avg_audioplayer.py
+END
+avg_checkspeed.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7244/trunk/libavg/src/utils/avg_checkspeed.py
+END

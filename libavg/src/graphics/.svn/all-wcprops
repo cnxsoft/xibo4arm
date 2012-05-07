@@ -1,0 +1,803 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/7344/trunk/libavg/src/graphics
+END
+GLTexture.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GLTexture.cpp
+END
+BitmapManagerMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6052/trunk/libavg/src/graphics/BitmapManagerMsg.h
+END
+FilterErosion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterErosion.cpp
+END
+OGLImagingContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/OGLImagingContext.h
+END
+Pixel16.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Pixel16.h
+END
+FilterGauss.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterGauss.h
+END
+GPUBrightnessFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUBrightnessFilter.h
+END
+BitmapManagerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6478/trunk/libavg/src/graphics/BitmapManagerThread.cpp
+END
+BitmapManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7170/trunk/libavg/src/graphics/BitmapManager.cpp
+END
+FilterThreshold.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterThreshold.h
+END
+FilterId.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterId.h
+END
+ImagingProjection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/ImagingProjection.cpp
+END
+HistoryPreProcessor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/HistoryPreProcessor.cpp
+END
+BmpTextureMover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/BmpTextureMover.cpp
+END
+FBO.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FBO.h
+END
+GLContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7314/trunk/libavg/src/graphics/GLContext.h
+END
+VertexArray.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/VertexArray.cpp
+END
+GLBufferCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GLBufferCache.cpp
+END
+Filtergrayscale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filtergrayscale.cpp
+END
+GPURGB2YUVFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GPURGB2YUVFilter.cpp
+END
+FilterResizeBilinear.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterResizeBilinear.h
+END
+PBO.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/PBO.h
+END
+Filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filter.cpp
+END
+GLConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GLConfig.cpp
+END
+GPUInvertFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUInvertFilter.cpp
+END
+Filtercolorize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7079/trunk/libavg/src/graphics/Filtercolorize.cpp
+END
+GraphicsTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7180/trunk/libavg/src/graphics/GraphicsTest.cpp
+END
+FilterBandpass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterBandpass.cpp
+END
+FilterMask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterMask.cpp
+END
+Filterfliprgba.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfliprgba.h
+END
+FilterResizeGaussian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterResizeGaussian.cpp
+END
+GLContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/GLContext.cpp
+END
+FilterDilation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterDilation.cpp
+END
+GPUShadowFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUShadowFilter.h
+END
+OGLShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/OGLShader.h
+END
+Pixel8.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Pixel8.h
+END
+GPUHueSatFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7221/trunk/libavg/src/graphics/GPUHueSatFilter.h
+END
+FilterHighpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterHighpass.h
+END
+FilterFloodfill.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterFloodfill.h
+END
+OGLHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/OGLHelper.h
+END
+GPURGB2YUVFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6957/trunk/libavg/src/graphics/GPURGB2YUVFilter.h
+END
+FilterflipX.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterflipX.h
+END
+GPUNullFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUNullFilter.h
+END
+GPUFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GPUFilter.cpp
+END
+Filterflip.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterflip.h
+END
+GPUShadowFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUShadowFilter.cpp
+END
+FilterResizeGaussian.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterResizeGaussian.h
+END
+TextureMover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6757/trunk/libavg/src/graphics/TextureMover.cpp
+END
+GPUChromaKeyFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUChromaKeyFilter.h
+END
+GPUHueSatFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUHueSatFilter.cpp
+END
+GPUBandpassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUBandpassFilter.cpp
+END
+FilterGauss.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterGauss.cpp
+END
+Filter3x3.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7344/trunk/libavg/src/graphics/Filter3x3.h
+END
+FilterGetAlpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterGetAlpha.h
+END
+GLShaderParam.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GLShaderParam.cpp
+END
+PBO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/PBO.cpp
+END
+Bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/Bitmap.h
+END
+Filter3x3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/Filter3x3.cpp
+END
+FilterFastBandpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterFastBandpass.h
+END
+GPUBlurFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUBlurFilter.cpp
+END
+Filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filter.h
+END
+FilterGetAlpha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterGetAlpha.cpp
+END
+Filterfliprgba.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfliprgba.cpp
+END
+GPUInvertFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUInvertFilter.h
+END
+FilterUnmultiplyAlpha.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterUnmultiplyAlpha.cpp
+END
+Filterfliprgb.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfliprgb.h
+END
+FilterIntensity.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterIntensity.h
+END
+ShaderRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/ShaderRegistry.h
+END
+FilterBandpass.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterBandpass.h
+END
+FilterMask.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterMask.h
+END
+ContribDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/ContribDefs.h
+END
+OGLShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/OGLShader.cpp
+END
+FilterFastDownscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterFastDownscale.h
+END
+FilterBlur.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterBlur.cpp
+END
+FilterHighpass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterHighpass.cpp
+END
+FilterDilation.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterDilation.h
+END
+FilterFastBandpass.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterFastBandpass.cpp
+END
+GLShaderParam.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/GLShaderParam.h
+END
+Pixel32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7192/trunk/libavg/src/graphics/Pixel32.cpp
+END
+FilterflipX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterflipX.cpp
+END
+FilterErosion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterErosion.h
+END
+PixelFormat.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6900/trunk/libavg/src/graphics/PixelFormat.cpp
+END
+GPUBlurFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7221/trunk/libavg/src/graphics/GPUBlurFilter.h
+END
+Filterfliprgb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfliprgb.cpp
+END
+StandardShader.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/StandardShader.h
+END
+GPUNullFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUNullFilter.cpp
+END
+ShaderRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/ShaderRegistry.cpp
+END
+Filterflip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterflip.cpp
+END
+FilterFastDownscale.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterFastDownscale.cpp
+END
+FilterUnmultiplyAlpha.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterUnmultiplyAlpha.h
+END
+GPUChromaKeyFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUChromaKeyFilter.cpp
+END
+GPUFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7215/trunk/libavg/src/graphics/GPUFilter.h
+END
+FilterConvol.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterConvol.h
+END
+FilterResizeBilinear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterResizeBilinear.cpp
+END
+TwoPassScale.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/TwoPassScale.h
+END
+ImagingProjection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7241/trunk/libavg/src/graphics/ImagingProjection.h
+END
+HistoryPreProcessor.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/HistoryPreProcessor.h
+END
+BmpTextureMover.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6763/trunk/libavg/src/graphics/BmpTextureMover.h
+END
+TextureMover.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/TextureMover.h
+END
+FilterBlur.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterBlur.h
+END
+VertexArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/VertexArray.h
+END
+GPUBandpassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7222/trunk/libavg/src/graphics/GPUBandpassFilter.h
+END
+GLBufferCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6624/trunk/libavg/src/graphics/GLBufferCache.h
+END
+Filtergrayscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filtergrayscale.h
+END
+StandardShader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7316/trunk/libavg/src/graphics/StandardShader.cpp
+END
+Pixel32.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/Pixel32.h
+END
+testgpu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7258/trunk/libavg/src/graphics/testgpu.cpp
+END
+GLConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GLConfig.h
+END
+PixelFormat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6900/trunk/libavg/src/graphics/PixelFormat.h
+END
+Filtercolorize.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/Filtercolorize.h
+END
+GraphicsTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/GraphicsTest.h
+END
+FilterNormalize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterNormalize.cpp
+END
+benchmarkgraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/benchmarkgraphics.cpp
+END
+Bitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/Bitmap.cpp
+END
+BitmapManagerMsg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6868/trunk/libavg/src/graphics/BitmapManagerMsg.cpp
+END
+Filterflipuv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterflipuv.h
+END
+OGLHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/OGLHelper.cpp
+END
+OGLImagingContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/OGLImagingContext.cpp
+END
+Pixeldefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Pixeldefs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7292/trunk/libavg/src/graphics/Makefile.am
+END
+GLTexture.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/GLTexture.h
+END
+GPUBrightnessFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7291/trunk/libavg/src/graphics/GPUBrightnessFilter.cpp
+END
+Pixel24.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Pixel24.h
+END
+FilterIntensity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/graphics/FilterIntensity.cpp
+END
+testgraphics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7176/trunk/libavg/src/graphics/testgraphics.cpp
+END
+Filterfill.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfill.h
+END
+FilterThreshold.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterThreshold.cpp
+END
+BitmapManagerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6052/trunk/libavg/src/graphics/BitmapManagerThread.h
+END
+FBO.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7312/trunk/libavg/src/graphics/FBO.cpp
+END
+FilterNormalize.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/FilterNormalize.h
+END
+Filterflipuv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterflipuv.cpp
+END
+BitmapManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6052/trunk/libavg/src/graphics/BitmapManager.h
+END
+Filterfillrect.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/graphics/Filterfillrect.h
+END

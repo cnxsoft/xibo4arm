@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/7182/trunk/libavg/win/testplugin
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7182/trunk/libavg/win/testplugin/setup.py
+END
+testplugin.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6832/trunk/libavg/win/testplugin/testplugin.vcxproj
+END
+batch_template.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5583/trunk/libavg/win/testplugin/batch_template.txt
+END

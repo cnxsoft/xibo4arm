@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7171/trunk/libavg/src/anim
+END
+SimpleAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/anim/SimpleAnim.cpp
+END
+ParallelAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/anim/ParallelAnim.cpp
+END
+EaseInOutAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/anim/EaseInOutAnim.cpp
+END
+SimpleAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/anim/SimpleAnim.h
+END
+ParallelAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/anim/ParallelAnim.h
+END
+EaseInOutAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/anim/EaseInOutAnim.h
+END
+WaitAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7096/trunk/libavg/src/anim/WaitAnim.cpp
+END
+ContinuousAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/anim/ContinuousAnim.cpp
+END
+WaitAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7096/trunk/libavg/src/anim/WaitAnim.h
+END
+LinearAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/anim/LinearAnim.cpp
+END
+AttrAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7171/trunk/libavg/src/anim/AttrAnim.cpp
+END
+ContinuousAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/anim/ContinuousAnim.h
+END
+LinearAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/anim/LinearAnim.h
+END
+AttrAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7171/trunk/libavg/src/anim/AttrAnim.h
+END
+Anim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6568/trunk/libavg/src/anim/Anim.cpp
+END
+StateAnim.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/anim/StateAnim.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4148/trunk/libavg/src/anim/Makefile.am
+END
+Anim.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6568/trunk/libavg/src/anim/Anim.h
+END
+StateAnim.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6568/trunk/libavg/src/anim/StateAnim.h
+END

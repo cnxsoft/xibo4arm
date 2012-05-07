@@ -1,0 +1,26 @@
+[name *.png]
+eol = exact
+
+[name *.jpg]
+eol = exact
+
+[name *.gif]
+eol = exact
+
+[name *.ico]
+eol = exact
+
+[name *.cur]
+eol = exact
+
+[name *.bat]
+eol = crlf
+
+[name *.sh]
+eol = lf
+
+[name client/dotNET/*]
+eol = crlf
+
+[name *]
+eol = native

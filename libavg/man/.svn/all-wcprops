@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/5658/trunk/libavg/man
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/5657/trunk/libavg/man/Makefile.am
+END
+avg_audioplayer.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5658/trunk/libavg/man/avg_audioplayer.1
+END
+avg_showfile.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5658/trunk/libavg/man/avg_showfile.1
+END
+avg_chromakey.1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5658/trunk/libavg/man/avg_chromakey.1
+END
+avg_videoinfo.1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/5658/trunk/libavg/man/avg_videoinfo.1
+END
+avg_videoplayer.1
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5658/trunk/libavg/man/avg_videoplayer.1
+END
+avg_showfont.1
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/5658/trunk/libavg/man/avg_showfont.1
+END
+avg_showcamera.1
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5658/trunk/libavg/man/avg_showcamera.1
+END
+avgrc.5
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2373/trunk/libavg/man/avgrc.5
+END

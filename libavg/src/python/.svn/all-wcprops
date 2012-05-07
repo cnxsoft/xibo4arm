@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7416/trunk/libavg/src/python
+END
+clusteredEventList.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/python/clusteredEventList.py
+END
+trackerhelper.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7087/trunk/libavg/src/python/trackerhelper.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6716/trunk/libavg/src/python/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7214/trunk/libavg/src/python/utils.py
+END
+graph.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6977/trunk/libavg/src/python/graph.py
+END
+grabbable.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/python/grabbable.py
+END
+camcalibrator.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7087/trunk/libavg/src/python/camcalibrator.py
+END
+apphelpers.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7087/trunk/libavg/src/python/apphelpers.py
+END
+statemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7132/trunk/libavg/src/python/statemachine.py
+END
+draggable.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/python/draggable.py
+END
+parsecamargs.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7087/trunk/libavg/src/python/parsecamargs.py
+END
+coordcalibrator.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7087/trunk/libavg/src/python/coordcalibrator.py
+END
+gameapp.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6140/trunk/libavg/src/python/gameapp.py
+END
+eventList.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/python/eventList.py
+END
+textarea.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7382/trunk/libavg/src/python/textarea.py
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6870/trunk/libavg/src/python/app.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6374/trunk/libavg/src/python/Makefile.am
+END
+anim.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6568/trunk/libavg/src/python/anim.py
+END
+appstarter.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6994/trunk/libavg/src/python/appstarter.py
+END
+geom.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7193/trunk/libavg/src/python/geom.py
+END
+mathutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/python/mathutil.py
+END
+mtemu.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6230/trunk/libavg/src/python/mtemu.py
+END

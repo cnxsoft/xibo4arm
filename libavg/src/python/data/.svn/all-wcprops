@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7214/trunk/libavg/src/python/data
+END
+CamImgBorder.png
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/4419/trunk/libavg/src/python/data/CamImgBorder.png
+END
+black.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6140/trunk/libavg/src/python/data/black.png
+END
+camcalibrator.avg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4419/trunk/libavg/src/python/data/camcalibrator.avg
+END
+border.png
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4419/trunk/libavg/src/python/data/border.png
+END
+crosshair.png
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6140/trunk/libavg/src/python/data/crosshair.png
+END
+rgb24alpha-64x64.png
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7214/trunk/libavg/src/python/data/rgb24alpha-64x64.png
+END
+Feedback.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6140/trunk/libavg/src/python/data/Feedback.png
+END
+mpeg1-48x48.mpg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7214/trunk/libavg/src/python/data/mpeg1-48x48.mpg
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7214/trunk/libavg/src/python/data/Makefile.am
+END
+TouchFeedback.png
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6478/trunk/libavg/src/python/data/TouchFeedback.png
+END

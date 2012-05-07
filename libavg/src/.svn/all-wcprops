@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/7473/trunk/libavg/src
+END
+avgrc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7291/trunk/libavg/src/avgrc
+END
+avgconfig_win.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3964/trunk/libavg/src/avgconfig_win.h
+END
+addcopyright.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2373/trunk/libavg/src/addcopyright.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/7089/trunk/libavg/src/Makefile.am
+END
+avgconfigwrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/avgconfigwrapper.h
+END
+api.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6568/trunk/libavg/src/api.h
+END

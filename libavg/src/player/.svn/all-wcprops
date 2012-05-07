@@ -1,0 +1,893 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7396/trunk/libavg/src/player
+END
+HueSatFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7133/trunk/libavg/src/player/HueSatFXNode.h
+END
+SoundNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7167/trunk/libavg/src/player/SoundNode.h
+END
+SVG.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/6918/trunk/libavg/src/player/SVG.h
+END
+ArgList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7273/trunk/libavg/src/player/ArgList.cpp
+END
+RectNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/player/RectNode.h
+END
+SVGElement.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/SVGElement.cpp
+END
+TextEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/player/TextEngine.h
+END
+CursorState.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6683/trunk/libavg/src/player/CursorState.h
+END
+NullFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6628/trunk/libavg/src/player/NullFXNode.h
+END
+TouchStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6568/trunk/libavg/src/player/TouchStatus.cpp
+END
+ImageNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7291/trunk/libavg/src/player/ImageNode.cpp
+END
+Win7TouchInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6568/trunk/libavg/src/player/Win7TouchInputDevice.h
+END
+OGLSurface.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7298/trunk/libavg/src/player/OGLSurface.h
+END
+SVG.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6918/trunk/libavg/src/player/SVG.cpp
+END
+Contact.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6918/trunk/libavg/src/player/Contact.h
+END
+PolyLineNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6918/trunk/libavg/src/player/PolyLineNode.cpp
+END
+TrackerTouchStatus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerTouchStatus.cpp
+END
+MultitouchInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6918/trunk/libavg/src/player/MultitouchInputDevice.h
+END
+RectNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/RectNode.cpp
+END
+RasterNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7316/trunk/libavg/src/player/RasterNode.cpp
+END
+AreaNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7237/trunk/libavg/src/player/AreaNode.cpp
+END
+DisplayParams.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/player/DisplayParams.h
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7235/trunk/libavg/src/player/Node.cpp
+END
+CanvasNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7235/trunk/libavg/src/player/CanvasNode.h
+END
+Win7TouchInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6655/trunk/libavg/src/player/Win7TouchInputDevice.cpp
+END
+XInputMTInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7002/trunk/libavg/src/player/XInputMTInputDevice.cpp
+END
+TouchEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/TouchEvent.h
+END
+TouchStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/player/TouchStatus.h
+END
+Contact.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6918/trunk/libavg/src/player/Contact.cpp
+END
+FilledVectorNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7211/trunk/libavg/src/player/FilledVectorNode.h
+END
+LineNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/LineNode.cpp
+END
+BoostPython.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6568/trunk/libavg/src/player/BoostPython.h
+END
+CameraNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7237/trunk/libavg/src/player/CameraNode.cpp
+END
+PluginManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6830/trunk/libavg/src/player/PluginManager.h
+END
+TrackerInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerInputDevice.h
+END
+DisplayEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6985/trunk/libavg/src/player/DisplayEngine.h
+END
+MeshNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7259/trunk/libavg/src/player/MeshNode.cpp
+END
+TrackerTouchStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerTouchStatus.h
+END
+Arg.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7273/trunk/libavg/src/player/Arg.cpp
+END
+ArgBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6683/trunk/libavg/src/player/ArgBase.h
+END
+RasterNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7291/trunk/libavg/src/player/RasterNode.h
+END
+InvertFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6653/trunk/libavg/src/player/InvertFXNode.h
+END
+TUIOInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7144/trunk/libavg/src/player/TUIOInputDevice.cpp
+END
+VideoNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7211/trunk/libavg/src/player/VideoNode.h
+END
+AreaNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7235/trunk/libavg/src/player/AreaNode.h
+END
+CursorEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/player/CursorEvent.h
+END
+CurveNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/player/CurveNode.cpp
+END
+TrackerInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerInputDevice.cpp
+END
+DisplayEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7396/trunk/libavg/src/player/DisplayEngine.cpp
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7394/trunk/libavg/src/player/Player.cpp
+END
+testplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6960/trunk/libavg/src/player/testplayer.cpp
+END
+SDLDisplayEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7312/trunk/libavg/src/player/SDLDisplayEngine.cpp
+END
+TrackerCalibrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerCalibrator.cpp
+END
+PolygonNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7300/trunk/libavg/src/player/PolygonNode.h
+END
+CameraNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7211/trunk/libavg/src/player/CameraNode.h
+END
+OffscreenCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6691/trunk/libavg/src/player/OffscreenCanvas.cpp
+END
+LibMTDevInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6918/trunk/libavg/src/player/LibMTDevInputDevice.cpp
+END
+MeshNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6929/trunk/libavg/src/player/MeshNode.h
+END
+ArgList.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6918/trunk/libavg/src/player/ArgList.h
+END
+InvertFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6706/trunk/libavg/src/player/InvertFXNode.cpp
+END
+BlurFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7107/trunk/libavg/src/player/BlurFXNode.h
+END
+SVGElement.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/SVGElement.h
+END
+CursorEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6918/trunk/libavg/src/player/CursorEvent.cpp
+END
+Event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6568/trunk/libavg/src/player/Event.cpp
+END
+MainCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6656/trunk/libavg/src/player/MainCanvas.h
+END
+Timeout.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7395/trunk/libavg/src/player/Timeout.cpp
+END
+ChromaKeyFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/player/ChromaKeyFXNode.cpp
+END
+FXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6918/trunk/libavg/src/player/FXNode.h
+END
+AVGNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6568/trunk/libavg/src/player/AVGNode.h
+END
+CurveNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6918/trunk/libavg/src/player/CurveNode.h
+END
+SDLDisplayEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7105/trunk/libavg/src/player/SDLDisplayEngine.h
+END
+TrackerCalibrator.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6918/trunk/libavg/src/player/TrackerCalibrator.h
+END
+Shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7316/trunk/libavg/src/player/Shape.h
+END
+PolyLineNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/PolyLineNode.h
+END
+WordsNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7211/trunk/libavg/src/player/WordsNode.h
+END
+OffscreenCanvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6670/trunk/libavg/src/player/OffscreenCanvas.h
+END
+LibMTDevInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/player/LibMTDevInputDevice.h
+END
+VectorNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7316/trunk/libavg/src/player/VectorNode.h
+END
+OffscreenCanvasNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6568/trunk/libavg/src/player/OffscreenCanvasNode.h
+END
+Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6762/trunk/libavg/src/player/Image.cpp
+END
+FXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/player/FXNode.cpp
+END
+AVGNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7084/trunk/libavg/src/player/AVGNode.cpp
+END
+TouchEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/TouchEvent.cpp
+END
+FilledVectorNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7316/trunk/libavg/src/player/FilledVectorNode.cpp
+END
+ShadowFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7218/trunk/libavg/src/player/ShadowFXNode.cpp
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/7235/trunk/libavg/src/player/Node.h
+END
+KeyEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/player/KeyEvent.cpp
+END
+Timeout.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7394/trunk/libavg/src/player/Timeout.h
+END
+ChromaKeyFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6918/trunk/libavg/src/player/ChromaKeyFXNode.h
+END
+DivNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7211/trunk/libavg/src/player/DivNode.h
+END
+EventDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6568/trunk/libavg/src/player/EventDispatcher.h
+END
+HueSatFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7133/trunk/libavg/src/player/HueSatFXNode.cpp
+END
+IInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/player/IInputDevice.h
+END
+NodeDefinition.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6568/trunk/libavg/src/player/NodeDefinition.cpp
+END
+VideoWriterThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6920/trunk/libavg/src/player/VideoWriterThread.h
+END
+LineNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6918/trunk/libavg/src/player/LineNode.h
+END
+ArgBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6568/trunk/libavg/src/player/ArgBase.cpp
+END
+VideoWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6918/trunk/libavg/src/player/VideoWriter.h
+END
+VideoNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7396/trunk/libavg/src/player/VideoNode.cpp
+END
+Arg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/7273/trunk/libavg/src/player/Arg.h
+END
+Canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7242/trunk/libavg/src/player/Canvas.h
+END
+AppleTrackpadInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6918/trunk/libavg/src/player/AppleTrackpadInputDevice.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6918/trunk/libavg/src/player/Image.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7273/trunk/libavg/src/player/Makefile.am
+END
+VideoWriterThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6996/trunk/libavg/src/player/VideoWriterThread.cpp
+END
+MultitouchInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6918/trunk/libavg/src/player/MultitouchInputDevice.cpp
+END
+ImageNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7211/trunk/libavg/src/player/ImageNode.h
+END
+KeyEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6568/trunk/libavg/src/player/KeyEvent.h
+END
+VideoWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7291/trunk/libavg/src/player/VideoWriter.cpp
+END
+NodeDefinition.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6683/trunk/libavg/src/player/NodeDefinition.h
+END
+BlurFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7218/trunk/libavg/src/player/BlurFXNode.cpp
+END
+DisplayParams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7396/trunk/libavg/src/player/DisplayParams.cpp
+END
+MaterialInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6757/trunk/libavg/src/player/MaterialInfo.cpp
+END
+Canvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7312/trunk/libavg/src/player/Canvas.cpp
+END
+AppleTrackpadInputDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6918/trunk/libavg/src/player/AppleTrackpadInputDevice.cpp
+END
+CircleNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/CircleNode.h
+END
+NodeRegistry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6687/trunk/libavg/src/player/NodeRegistry.cpp
+END
+MainCanvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6656/trunk/libavg/src/player/MainCanvas.cpp
+END
+WrapPython.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6568/trunk/libavg/src/player/WrapPython.h
+END
+CanvasNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7235/trunk/libavg/src/player/CanvasNode.cpp
+END
+testcalibrator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6918/trunk/libavg/src/player/testcalibrator.cpp
+END
+TestHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/TestHelper.h
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6568/trunk/libavg/src/player/Event.h
+END
+PluginManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6830/trunk/libavg/src/player/PluginManager.cpp
+END
+MouseEvent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/MouseEvent.cpp
+END
+XInputMTInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7002/trunk/libavg/src/player/XInputMTInputDevice.h
+END
+SoundNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7396/trunk/libavg/src/player/SoundNode.cpp
+END
+Shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7316/trunk/libavg/src/player/Shape.cpp
+END
+WordsNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7237/trunk/libavg/src/player/WordsNode.cpp
+END
+CircleNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/CircleNode.cpp
+END
+VectorNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7316/trunk/libavg/src/player/VectorNode.cpp
+END
+TextEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/player/TextEngine.cpp
+END
+OffscreenCanvasNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6683/trunk/libavg/src/player/OffscreenCanvasNode.cpp
+END
+CursorState.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6683/trunk/libavg/src/player/CursorState.cpp
+END
+NullFXNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6706/trunk/libavg/src/player/NullFXNode.cpp
+END
+TestHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/TestHelper.cpp
+END
+MaterialInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6918/trunk/libavg/src/player/MaterialInfo.h
+END
+NodeRegistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6568/trunk/libavg/src/player/NodeRegistry.h
+END
+TUIOInputDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6918/trunk/libavg/src/player/TUIOInputDevice.h
+END
+DivNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7242/trunk/libavg/src/player/DivNode.cpp
+END
+EventDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6683/trunk/libavg/src/player/EventDispatcher.cpp
+END
+OGLSurface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7312/trunk/libavg/src/player/OGLSurface.cpp
+END
+SDLMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2373/trunk/libavg/src/player/SDLMain.h
+END
+PolygonNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7310/trunk/libavg/src/player/PolygonNode.cpp
+END
+ShadowFXNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7107/trunk/libavg/src/player/ShadowFXNode.h
+END
+MouseEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6918/trunk/libavg/src/player/MouseEvent.h
+END
+SDLMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2373/trunk/libavg/src/player/SDLMain.m
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7312/trunk/libavg/src/player/Player.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate
+END
+Triangulate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7303/trunk/libavg/src/base/triangulate/Triangulate.h
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7273/trunk/libavg/src/base/triangulate/Utils.h
+END
+AdvancingFront.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate/AdvancingFront.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7274/trunk/libavg/src/base/triangulate/Makefile.am
+END
+Shapes.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7273/trunk/libavg/src/base/triangulate/Shapes.h
+END
+Sweep.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate/Sweep.h
+END
+SweepContext.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate/SweepContext.cpp
+END
+SweepContext.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate/SweepContext.h
+END
+Triangulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7303/trunk/libavg/src/base/triangulate/Triangulate.cpp
+END
+AdvancingFront.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7273/trunk/libavg/src/base/triangulate/AdvancingFront.cpp
+END
+Shapes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7273/trunk/libavg/src/base/triangulate/Shapes.cpp
+END
+Sweep.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7311/trunk/libavg/src/base/triangulate/Sweep.cpp
+END
