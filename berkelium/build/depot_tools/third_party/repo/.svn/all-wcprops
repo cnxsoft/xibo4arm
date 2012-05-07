@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/61733/trunk/tools/depot_tools/third_party/repo
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/38104/trunk/tools/depot_tools/third_party/repo/COPYING
+END
+progress.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/61733/trunk/tools/depot_tools/third_party/repo/progress.py
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/38104/trunk/tools/depot_tools/third_party/repo/README.chromium
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/38104/trunk/tools/depot_tools/third_party/repo/__init__.py
+END

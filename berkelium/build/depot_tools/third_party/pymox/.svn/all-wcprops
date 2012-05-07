@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/MANIFEST.in
+END
+stubout_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/stubout_test.py
+END
+stubout.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/stubout.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/README
+END
+stubout_testee.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/stubout_testee.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/__init__.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/COPYING
+END
+mox_test_helper.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/mox_test_helper.py
+END
+mox_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/mox_test.py
+END
+mox.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37987/trunk/tools/depot_tools/third_party/pymox/mox.py
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/107212/trunk/tools/depot_tools/bootstrap/win
+END
+unzip.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/103051/trunk/tools/depot_tools/bootstrap/win/unzip.js
+END
+win_tools.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/107212/trunk/tools/depot_tools/bootstrap/win/win_tools.bat
+END
+svn.new.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/103051/trunk/tools/depot_tools/bootstrap/win/svn.new.bat
+END
+README.google
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/103051/trunk/tools/depot_tools/bootstrap/win/README.google
+END
+get_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/103051/trunk/tools/depot_tools/bootstrap/win/get_file.js
+END
+svnversion.new.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/33601/trunk/tools/depot_tools/bootstrap/win/svnversion.new.bat
+END
+python.new.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/103051/trunk/tools/depot_tools/bootstrap/win/python.new.bat
+END

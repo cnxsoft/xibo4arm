@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/114635/trunk/tools/depot_tools/third_party/setuptools
+END
+README.chromium
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/114635/trunk/tools/depot_tools/third_party/setuptools/README.chromium
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/114635/trunk/tools/depot_tools/third_party/setuptools/LICENSE.txt
+END
+setuptools-0.6c11-py2.6.egg
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/114635/trunk/tools/depot_tools/third_party/setuptools/setuptools-0.6c11-py2.6.egg
+END

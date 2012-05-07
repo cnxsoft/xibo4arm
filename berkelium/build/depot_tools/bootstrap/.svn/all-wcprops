@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/132191/trunk/tools/depot_tools/bootstrap
+END
+gclient.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/132191/trunk/tools/depot_tools/bootstrap/gclient.bat
+END

@@ -1,0 +1,407 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/135377/trunk/tools/depot_tools
+END
+gclient_scm.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/135324/trunk/tools/depot_tools/gclient_scm.py
+END
+cpplint.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/103051/trunk/tools/depot_tools/cpplint.bat
+END
+commit_queue.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112277/trunk/tools/depot_tools/commit_queue.py
+END
+apply_issue.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/103309/trunk/tools/depot_tools/apply_issue.py
+END
+git_cl.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133265/trunk/tools/depot_tools/git_cl.py
+END
+codereview.settings
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37709/trunk/tools/depot_tools/codereview.settings
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/132191/trunk/tools/depot_tools/README
+END
+ninja-mac
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134307/trunk/tools/depot_tools/ninja-mac
+END
+git-cl-upload-hook
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/103051/trunk/tools/depot_tools/git-cl-upload-hook
+END
+profile.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/14349/trunk/tools/depot_tools/profile.xml
+END
+wtf
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103051/trunk/tools/depot_tools/wtf
+END
+subprocess2.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/133265/trunk/tools/depot_tools/subprocess2.py
+END
+chrome-update.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/103051/trunk/tools/depot_tools/chrome-update.bat
+END
+chrome-update-create-task.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/103051/trunk/tools/depot_tools/chrome-update-create-task.bat
+END
+pylintrc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/133719/trunk/tools/depot_tools/pylintrc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/120225/trunk/tools/depot_tools/.gitignore
+END
+repo
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/115533/trunk/tools/depot_tools/repo
+END
+cros_sdk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/128555/trunk/tools/depot_tools/cros_sdk
+END
+README.testing
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/103051/trunk/tools/depot_tools/README.testing
+END
+gcl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/103066/trunk/tools/depot_tools/gcl.bat
+END
+watchlists.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103051/trunk/tools/depot_tools/watchlists.py
+END
+OWNERS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/125276/trunk/tools/depot_tools/OWNERS
+END
+package_management.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/120331/trunk/tools/depot_tools/package_management.py
+END
+hammer.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/103051/trunk/tools/depot_tools/hammer.bat
+END
+fix_encoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/80785/trunk/tools/depot_tools/fix_encoding.py
+END
+presubmit_canned_checks.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/133707/trunk/tools/depot_tools/presubmit_canned_checks.py
+END
+gclient.bat
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135377/trunk/tools/depot_tools/gclient.bat
+END
+create-chromium-git-src
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/103051/trunk/tools/depot_tools/create-chromium-git-src
+END
+update_depot_tools
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/134732/trunk/tools/depot_tools/update_depot_tools
+END
+cpplint.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/119713/trunk/tools/depot_tools/cpplint.py
+END
+weekly
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/103051/trunk/tools/depot_tools/weekly
+END
+breakpad.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/117896/trunk/tools/depot_tools/breakpad.py
+END
+ninja.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/133940/trunk/tools/depot_tools/ninja.bat
+END
+chrome_set_ver
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/128555/trunk/tools/depot_tools/chrome_set_ver
+END
+rietveld.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135326/trunk/tools/depot_tools/rietveld.py
+END
+drover.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/103066/trunk/tools/depot_tools/drover.bat
+END
+git_try.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/114264/trunk/tools/depot_tools/git_try.py
+END
+scm.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/135333/trunk/tools/depot_tools/scm.py
+END
+trychange.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133265/trunk/tools/depot_tools/trychange.py
+END
+my_reviews.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/127856/trunk/tools/depot_tools/my_reviews.py
+END
+chrome-update.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/80212/trunk/tools/depot_tools/chrome-update.py
+END
+patch.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/122361/trunk/tools/depot_tools/patch.py
+END
+README.codereview
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/103051/trunk/tools/depot_tools/README.codereview
+END
+gclient_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/132451/trunk/tools/depot_tools/gclient_utils.py
+END
+gcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/133265/trunk/tools/depot_tools/gcl.py
+END
+git-try
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/103066/trunk/tools/depot_tools/git-try
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/133707/trunk/tools/depot_tools/PRESUBMIT.py
+END
+cpplint_chromium.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/100151/trunk/tools/depot_tools/cpplint_chromium.py
+END
+owners.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/125588/trunk/tools/depot_tools/owners.py
+END
+gcl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/103066/trunk/tools/depot_tools/gcl
+END
+ninja-linux64
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/134307/trunk/tools/depot_tools/ninja-linux64
+END
+hammer
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/23440/trunk/tools/depot_tools/hammer
+END
+README.git-cl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/103051/trunk/tools/depot_tools/README.git-cl
+END
+gclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/135324/trunk/tools/depot_tools/gclient.py
+END
+git-cl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/121834/trunk/tools/depot_tools/git-cl
+END
+README.gclient
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/103051/trunk/tools/depot_tools/README.gclient
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/103051/trunk/tools/depot_tools/LICENSE
+END
+gclient
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/103066/trunk/tools/depot_tools/gclient
+END
+WATCHLISTS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/103051/trunk/tools/depot_tools/WATCHLISTS
+END
+drover.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/113720/trunk/tools/depot_tools/drover.py
+END
+git-gs
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/130397/trunk/tools/depot_tools/git-gs
+END
+checkout.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/135333/trunk/tools/depot_tools/checkout.py
+END
+presubmit_support.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/133265/trunk/tools/depot_tools/presubmit_support.py
+END
+ninja
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/132252/trunk/tools/depot_tools/ninja
+END
+drover
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/103066/trunk/tools/depot_tools/drover
+END
+update_depot_tools.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134732/trunk/tools/depot_tools/update_depot_tools.bat
+END
+cbuildbot
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/128555/trunk/tools/depot_tools/cbuildbot
+END

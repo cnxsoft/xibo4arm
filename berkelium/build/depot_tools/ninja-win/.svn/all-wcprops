@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/134993/trunk/tools/depot_tools/ninja-win
+END
+ninja-deplist-helper.exe
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/134993/trunk/tools/depot_tools/ninja-win/ninja-deplist-helper.exe
+END
+ninja.exe
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/134993/trunk/tools/depot_tools/ninja-win/ninja.exe
+END
+ninja-stat-daemon.exe
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/134993/trunk/tools/depot_tools/ninja-win/ninja-stat-daemon.exe
+END

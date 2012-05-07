@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/135333/trunk/tools/depot_tools/tests
+END
+submit-from-new-dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/submit-from-new-dir.sh
+END
+rename.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/rename.sh
+END
+fix_encoding_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/109435/trunk/tools/depot_tools/tests/fix_encoding_test.py
+END
+patch_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/122361/trunk/tools/depot_tools/tests/patch_test.py
+END
+git_cl_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130372/trunk/tools/depot_tools/tests/git_cl_test.py
+END
+basic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/basic.sh
+END
+push-from-logs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/push-from-logs.sh
+END
+gcl_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/121826/trunk/tools/depot_tools/tests/gcl_unittest.py
+END
+gclient_utils_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/132451/trunk/tools/depot_tools/tests/gclient_utils_test.py
+END
+presubmit_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/133707/trunk/tools/depot_tools/tests/presubmit_unittest.py
+END
+owners_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/125588/trunk/tools/depot_tools/tests/owners_unittest.py
+END
+post-dcommit-hook-test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/91575/trunk/tools/depot_tools/tests/post-dcommit-hook-test.sh
+END
+rietveld_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/134733/trunk/tools/depot_tools/tests/rietveld_test.py
+END
+patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/patch.sh
+END
+scm_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/133265/trunk/tools/depot_tools/tests/scm_unittest.py
+END
+upstream.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/99436/trunk/tools/depot_tools/tests/upstream.sh
+END
+gclient_smoketest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/124657/trunk/tools/depot_tools/tests/gclient_smoketest.py
+END
+trychange_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/125622/trunk/tools/depot_tools/tests/trychange_unittest.py
+END
+watchlists_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/109636/trunk/tools/depot_tools/tests/watchlists_unittest.py
+END
+abandon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/abandon.sh
+END
+gclient_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/134280/trunk/tools/depot_tools/tests/gclient_test.py
+END
+sample_pre_commit_hook
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/82414/trunk/tools/depot_tools/tests/sample_pre_commit_hook
+END
+upload-local-tracking-branch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/upload-local-tracking-branch.sh
+END
+owners.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/owners.sh
+END
+save-description-on-failure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/save-description-on-failure.sh
+END
+checkout_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/133265/trunk/tools/depot_tools/tests/checkout_test.py
+END
+test-lib.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/118912/trunk/tools/depot_tools/tests/test-lib.sh
+END
+hooks.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/hooks.sh
+END
+breakpad_unittest.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117039/trunk/tools/depot_tools/tests/breakpad_unittest.py
+END
+subprocess2_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/117054/trunk/tools/depot_tools/tests/subprocess2_test.py
+END
+upload-stale.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/upload-stale.sh
+END
+push-basic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/79715/trunk/tools/depot_tools/tests/push-basic.sh
+END
+gclient_scm_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/135333/trunk/tools/depot_tools/tests/gclient_scm_test.py
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson
+END
+tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/tool.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/encoder.py
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/PKG-INFO
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/decoder.py
+END
+ordered_dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/ordered_dict.py
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/LICENSE.txt
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/42175/trunk/tools/depot_tools/third_party/simplejson/scanner.py
+END

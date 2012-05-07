@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/122361/trunk/tools/depot_tools/testing_support
+END
+filesystem_mock.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/109636/trunk/tools/depot_tools/testing_support/filesystem_mock.py
+END
+fake_repos.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/114262/trunk/tools/depot_tools/testing_support/fake_repos.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/109636/trunk/tools/depot_tools/testing_support/__init__.py
+END
+patches_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/122361/trunk/tools/depot_tools/testing_support/patches_data.py
+END
+super_mox.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/109636/trunk/tools/depot_tools/testing_support/super_mox.py
+END
+auto_stub.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/111941/trunk/tools/depot_tools/testing_support/auto_stub.py
+END
+local_rietveld.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/119064/trunk/tools/depot_tools/testing_support/local_rietveld.py
+END
+trial_dir.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/111941/trunk/tools/depot_tools/testing_support/trial_dir.py
+END

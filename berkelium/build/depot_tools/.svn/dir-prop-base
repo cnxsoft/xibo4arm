@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 49
+svn
+svn.bat
+svn_bin
+python
+python.bat
+python_bin
+
+END
